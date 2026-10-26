@@ -38,7 +38,11 @@ assets/
 vehicle/
 textures/
 Montreal/
-output/
+output/*
+!output/renders/
+output/renders/*
+!output/renders/comparison_core_old_montreal_side_by_side.png
+!output/renders/montreal_sky_flyover.gif
 social media/
 
 # =============================================================================

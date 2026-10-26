@@ -2,6 +2,10 @@
 
 An end-to-end **Autonomous Multi-Agent 3D Urban & Architectural Reconstruction Pipeline** that procedurally models, critiques, and self-improves **54 contiguous city blocks and superblocks** of Montreal (`MTL-VM-0001` through `MTL-VM-0044` and `MTL-OLY-0001` through `MTL-OLY-0010`) in **Blender 5.2 (Python `bmesh` + Cycles GPU)** using **OpenStreetMap**, **Poly Haven 2K PBR Materials & 3D Botanical Assets**, and **Google Maps Satellite + Street View Ground-Truth Verification**.
 
+![Montreal Continuous Corridor Drone Flyover](output/renders/montreal_sky_flyover.gif)
+
+![Core Old Montreal — Ground-Truth Satellite vs. Autonomous 3D Reconstruction](output/renders/comparison_core_old_montreal_side_by_side.png)
+
 Spanning a **6.9 km continuous urban corridor** (`Y ∈ [-750m, +6950m]`, `X ∈ [-750m, +1450m]`) with **zero spatial gaps**, the pipeline reconstructs over **9,500 articulated 3D buildings**, **2D `shapely` Boolean-manifold road networks**, **raised concrete sidewalks with beveled granite curbs**, **Continental Zebra Crosswalks**, **3D streetlamps & trees**, and Montreal's signature architectural landmarks:
 - **Old Montreal & Old Port (`MTL-VM-0001`..`0044`)**: Place d'Armes, Basilique Notre-Dame, Banque de Montréal Dome, Édifice Aldred, Hôtel de Ville, Château Ramezay, Marché Bonsecours, Grand Quai, Sailors' Memorial Clock Tower (`Tour de l'Horloge`), Silo No. 5, Bota Bota, Lachine Canal Locks, Habitat 67, Pont Jacques-Cartier, and the Biosphère Geodesic Dome.
 - **Sainte-Marie & Hochelaga-Maisonneuve Corridor (`MTL-OLY-0002`..`0009`)**: 23-Story Hexagonal Brutalist Maison de Radio-Canada Tower, Parc Bellerive, Sucrerie Lantic Heritage Sugar Refinery, Quai Sutherland, Marché Maisonneuve Beaux-Arts Dome, Bain Morgan, Parc Lalancette, Église Très-Saint-Nom-de-Jésus, and Château Dufresne Beaux-Arts Museum.
