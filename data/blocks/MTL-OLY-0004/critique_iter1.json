@@ -1,0 +1,22 @@
+{
+  "block_id": "MTL-OLY-0004",
+  "iteration": 1,
+  "visual_critic_score": 44,
+  "streets_critic_score": 79,
+  "composite_score": 52.75,
+  "pass_threshold": 95.0,
+  "verdict": "ITERATE",
+  "automatic_fail_triggers": [
+    "Camera Occlusion: View 4 (Rue_SainteCatherineEst_Morgan_Square) is 100% black due to mesh intersection with the camera.",
+    "Fail Trigger #2: Marche Maisonneuve Beaux-Arts landmark is a windowless limestone box.",
+    "Fail Trigger #5: Bare leafless black tree trunks and floating sky twigs.",
+    "Z-Fighting Hygiene Fail: Black coplanar square patches across street intersections in SE_Iso..NE_Iso."
+  ],
+  "required_fixes_iter2": [
+    "Clear camera occlusion on Rue_SainteCatherineEst_Morgan_Square.",
+    "Carve Beaux-Arts arched windows, pilasters, and cornices into Marche Maisonneuve and Bain Morgan.",
+    "Attach full green 3D foliage canopies to all trees along Avenue Morgan and remove floating twigs.",
+    "Offset intersection and crosswalk Z-layers by >= 0.015m to eliminate black coplanar Z-fighting patches."
+  ],
+  "rsi_rule": "RSI-009"
+}

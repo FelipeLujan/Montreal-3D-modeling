@@ -1,0 +1,19 @@
+{
+  "block_id": "MTL-VM-0039",
+  "iteration": 1,
+  "visual_critic_score": 51,
+  "streets_critic_score": 86,
+  "composite_score": 59.75,
+  "pass_threshold": 95.0,
+  "verdict": "ITERATE",
+  "automatic_fail_triggers": [
+    "Fail Trigger #2: Both the large grey industrial hall and pink/brown Craig Pumping Station annex under Pont Jacques-Cartier are 100% windowless boxes.",
+    "Fail Trigger #5: Bare leafless black tree trunks."
+  ],
+  "required_fixes_iter2": [
+    "Carve floor-by-floor recessed arched/industrial windows, stone quoins, and parapets into the grey industrial hall and Craig Pumping Station annex.",
+    "Attach full green 3D foliage canopies to all trees in Parc du Pied-du-Courant.",
+    "Enhance Pont Jacques-Cartier steel truss deck and approach bents."
+  ],
+  "rsi_rule": "RSI-009"
+}

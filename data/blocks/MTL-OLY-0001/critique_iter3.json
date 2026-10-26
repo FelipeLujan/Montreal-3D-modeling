@@ -1,0 +1,123 @@
+{
+  "block_id": "MTL-OLY-0001",
+  "block_name": "Parc olympique de Montréal (Stade olympique, Tour de Montréal, Biodôme, Planétarium Rio Tinto Alcan & Esplanade)",
+  "iteration": 3,
+  "score": 97,
+  "pass_threshold": 95,
+  "verdict": "PASS",
+  "automatic_fail_triggers_present": false,
+  "geometry_forensics": {
+    "total_mesh_vertices": 498617,
+    "total_mesh_faces": 360427,
+    "distinct_materials_count": 27,
+    "windowless_tall_buildings": [],
+    "packed_images_count": 21
+  },
+  "category_sub_scores": {
+    "1_overlay_band_structural_footprint_silhouette_alignment": {
+      "score": 25,
+      "max": 25,
+      "summary": "All 9 views (1 Satellite Top-Down + 8 Google Street View cameras) lock onto real-world silhouettes and footprints with 78.6% mean Color Sim (75.1%-81.2%) and up to 1.25x Detail Edge Ratio."
+    },
+    "2_true_3d_architectural_hierarchy_sculptural_curvature_fenestration": {
+      "score": 25,
+      "max": 25,
+      "summary": "38 cantilevered stadium ribs, 3-zone stadium roof with turquoise-blue collar, 165m 45-degree inclined Tour de Montreal with 14 base wing skylights and 26 cables, scalloped Biodome shell with Y-ribs and 6 leaf skylights, Planetarium twin cones with green roof ramp, and 150 floor-by-floor fenestrated context buildings."
+    },
+    "3_pbr_materiality_roof_detailing_ground_hierarchy": {
+      "score": 20,
+      "max": 20,
+      "summary": "27 distinct PBR materials with warm-beige concrete Esplanade replacing the green lawn polygon, turquoise stadium roof collar, fluted brutalist retaining walls, ivy wall cladding, and diversified context roofs."
+    },
+    "4_high_poly_3d_foliage_street_furniture_urban_context": {
+      "score": 13,
+      "max": 15,
+      "summary": "Comprehensive street-corridor context across all 8 views including Olympic History signage panels, Rouge festival totem, container kiosk, traffic cones, curved white planter beds, and high-poly trees."
+    },
+    "5_technical_and_z_fighting_hygiene": {
+      "score": 14,
+      "max": 15,
+      "summary": "Zero coplanar black polygons, zero highlight blowout, clean face normals, and 21 packed PBR textures."
+    }
+  },
+  "view_by_view_audit": [
+    {
+      "view_index": 0,
+      "label": "Google_Maps_Satellite_TopDown",
+      "color_sim_pct": 80.5,
+      "detail_edge_ratio": 0.95,
+      "status": "PASS",
+      "band_notes": "All 6 satellite enhancements verified: warm-beige concrete Esplanade in H5-H8/V2-V6, 3-zone stadium roof with turquoise collar in H3-H6/V3-V6, 14 elliptical skylights on Tour de Montreal base wing in H1-H2/V3-V4, scalloped Biodome Y-ribs and 6 leaf skylights in H1-H2/V6-V7, Planetarium green roof ramp in H7/V3-V4, and diversified context roofs in V7-V8."
+    },
+    {
+      "view_index": 1,
+      "label": "Tour_de_Montreal_and_Biodome_South",
+      "color_sim_pct": 75.7,
+      "detail_edge_ratio": 1.25,
+      "status": "PASS",
+      "band_notes": "Curved stadium ribs (H2-H4), inclined tower crown (V4), dark gallery glazing (H4), lower canopy (H5), and tricolor Olympic History signage panels (H6) align across H1..H8 and V1..V8."
+    },
+    {
+      "view_index": 2,
+      "label": "Stade_Olympique_Ribs_PierreDeCoubertin",
+      "color_sim_pct": 79.0,
+      "detail_edge_ratio": 0.88,
+      "status": "PASS",
+      "band_notes": "Cantilevered rib tips (H2), curved cornice (H3), dark curtain wall with circular medallions (H3-H4), ground portals (H5), and scored concrete apron (H6-H8) align cleanly."
+    },
+    {
+      "view_index": 3,
+      "label": "Biodome_Velodrome_Facade_East",
+      "color_sim_pct": 78.0,
+      "detail_edge_ratio": 0.50,
+      "status": "PASS",
+      "band_notes": "Inclined tower and stadium ribs (V1-V2), Biodome lobby (V3-V4), 4-story grey-stone/red-balcony residential apartment block (V5-V8), and foreground traffic cones/planter (H5-H6) match ground truth."
+    },
+    {
+      "view_index": 4,
+      "label": "Esplanade_Olympique_PieIX_Approach",
+      "color_sim_pct": 81.2,
+      "detail_edge_ratio": 0.51,
+      "status": "PASS",
+      "band_notes": "Timber-slatted Rouge totem (V4-V5), white container booth (V2-V3), background stadium ribs and tower (H3-H4), and concrete Esplanade deck (H6-H8) achieve 81.2% Color Sim."
+    },
+    {
+      "view_index": 5,
+      "label": "PieIX_West_Stadium_and_Tower",
+      "color_sim_pct": 75.1,
+      "detail_edge_ratio": 0.72,
+      "status": "PASS",
+      "band_notes": "45-degree inclined tower with cable fan (V2-V4, H2-H4), western stadium rib ring (H4), concrete podium wall (H5), lawn strip (H6), and Pie-IX roadbed (H7-H8) align across bands."
+    },
+    {
+      "view_index": 6,
+      "label": "PieIX_NW_Tour_de_Montreal_Base",
+      "color_sim_pct": 81.2,
+      "detail_edge_ratio": 1.11,
+      "status": "PASS",
+      "band_notes": "Curved portal base and 45-degree inclined shaft of La Tour de Montreal with 8 recessed dark curtain-wall tiers (V3-V7, H1-H4), cable stays, and stepped concrete retaining walls (H5-H8) achieve 81.2% Color Sim and 1.11x Edge Ratio."
+    },
+    {
+      "view_index": 7,
+      "label": "Planetarium_Cones_and_Biodome_North",
+      "color_sim_pct": 77.1,
+      "detail_edge_ratio": 0.77,
+      "status": "PASS",
+      "band_notes": "Twin truncated metallic cones of the Planetarium (V3-V5, H4), sloped green roof ramp (V1-V4, H4-H5), glazed lobby (H5), and curved white concrete planter curbs (H6-H8) match closely."
+    },
+    {
+      "view_index": 8,
+      "label": "PierreDeCoubertin_South_Stadium_Cantilevers",
+      "color_sim_pct": 79.8,
+      "detail_edge_ratio": 0.55,
+      "status": "PASS",
+      "band_notes": "Southern stadium rib cantilevers (H3-H4), ivy-clad green wall bastion (V5-V7, H4-H5), and foreground fluted concrete ramp retaining wall (V4-V8, H5-H8) achieve 79.8% Color Sim."
+    }
+  ],
+  "recursive_self_improvement_rule": {
+    "id": "RSI-007",
+    "title": "Multi-Angle 8-Camera Street View + 3-Zone Nadir Roof & Hardscape Plaza Validation",
+    "critic_rule": "Rule R6 (RSI-007): Enforce a 9-View Validation Matrix (1 Satellite Top-Down + 8 perimeter/internal Street View cameras) on monumental superblocks (>250m x 250m), verifying that nadir plaza hardscapes, multi-zone stadium/shell roofs (concrete rib ring + colored collar + inner tensile membrane + podium skylights), and approach retaining walls achieve >=75% Color Sim across all 9 views.",
+    "builder_rule": "Rule B6 (RSI-007): Subdivide nadir-visible ground planes into true hardscape concrete decks, sunken lawn beds, and amphitheater rings traced from satellite_topdown.png, and model concentric roof material zones (outer ribs, colored intermediate collar, inner tensile membrane, and arrayed podium skylights) plus camera-specific foreground retaining walls, planters, and signage totems across all 8 Street View corridors."
+  }
+}

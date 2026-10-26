@@ -1,1 +1,69 @@
+# =============================================================================
+# 1. Secrets & Environment Variables
+# =============================================================================
 .env
+.env.*
+!.env.example
+
+# =============================================================================
+# 2. Unrelated Enterprise / Work Subagents & Skills
+# =============================================================================
+.agents/agents/adf.md
+.agents/agents/budget-tracking.md
+.agents/agents/pp.md
+.agents/rules/
+.agents/skills/
+.agents/teamwork/
+.agents/*.png
+agents/adf.md
+agents/budget-tracking.md
+agents/pp.md
+
+# =============================================================================
+# 3. Heavy 3D Scene Binaries, Third-Party Asset Libraries & Caches (~58 GB)
+# =============================================================================
+*.blend
+*.blend1
+*.blend2
+*.usdc
+*.usd
+*.usda
+*.fbx
+*.glb
+*.gltf
+*.obj
+*.mtl
+
+assets/
+vehicle/
+textures/
+Montreal/
+output/
+social media/
+
+# =============================================================================
+# 4. Downloaded Street View / Satellite Imagery & Critique Renders (~3.7 GB)
+# =============================================================================
+data/blocks/EXPANDED_SV/
+data/blocks/**/streetview/
+data/blocks/**/overlay_bands/
+data/blocks/**/renders/
+data/blocks/**/*.png
+data/blocks/**/*.jpg
+data/blocks/**/*.jpeg
+
+# =============================================================================
+# 6. Python Bytecode & Root-Level Scratch / Debug Scripts
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+/test_*.py
+/inspect_*.py
+/dists_39098.py
+/find_zero_dist_vert.py
+/fix_vieux_palais_and_pavilion.py
+/TELEMETRY_STATUS.md
+/PROJECT_BLUEPRINT.md

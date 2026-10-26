@@ -1,0 +1,20 @@
+{
+  "block_id": "MTL-OLY-0005",
+  "iteration": 1,
+  "visual_critic_score": 51,
+  "streets_critic_score": 83,
+  "composite_score": 59.0,
+  "pass_threshold": 95.0,
+  "verdict": "ITERATE",
+  "automatic_fail_triggers": [
+    "Fail Trigger #2: Chateau Dufresne landmark is a windowless limestone box behind its portico columns.",
+    "Fail Trigger #5: Bare leafless black tree trunks.",
+    "Z-Fighting Hygiene Fail: Black coplanar intersection squares in SE_Iso..NE_Iso."
+  ],
+  "required_fixes_iter2": [
+    "Carve symmetric Beaux-Arts recessed windows, stone cornices, and roof balustrades into Chateau Dufresne.",
+    "Attach full green 3D foliage canopies to all trees around Chateau Dufresne, Pie-IX, and Rue Jeanne-d'Arc.",
+    "Eliminate black coplanar Z-fighting patches at street intersections."
+  ],
+  "rsi_rule": "RSI-009"
+}

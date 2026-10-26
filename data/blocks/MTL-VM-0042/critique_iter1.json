@@ -1,0 +1,19 @@
+{
+  "block_id": "MTL-VM-0042",
+  "iteration": 1,
+  "visual_critic_score": 52,
+  "streets_critic_score": 89,
+  "composite_score": 61.25,
+  "pass_threshold": 95.0,
+  "verdict": "ITERATE",
+  "automatic_fail_triggers": [
+    "Fail Trigger #2: Upper cream volume of Edifice Jacques-Viger / Gare Viger is a windowless box (>6m tall) in SE_Iso/SW_Iso/NW_Iso.",
+    "Fail Trigger #5: All jacaranda_tree instances render as bare black trunks without green leaf canopies."
+  ],
+  "required_fixes_iter2": [
+    "Carve floor-by-floor recessed 3D windows, horizontal spandrels, and chateau copper roof details onto the upper cream volume of Edifice Jacques-Viger.",
+    "Attach full green 3D foliage canopies to all jacaranda_tree instances across Square Viger.",
+    "Add the warm-lit concrete pergola/underpass colonnade bays visible in Rue_SaintAntoineEst_South_Border and Rue_Berri_Square_Viger_East."
+  ],
+  "rsi_rule": "RSI-009"
+}

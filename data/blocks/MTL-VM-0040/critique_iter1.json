@@ -1,0 +1,19 @@
+{
+  "block_id": "MTL-VM-0040",
+  "iteration": 1,
+  "visual_critic_score": 50,
+  "streets_critic_score": 85,
+  "composite_score": 58.75,
+  "pass_threshold": 95.0,
+  "verdict": "ITERATE",
+  "automatic_fail_triggers": [
+    "Fail Trigger #2: Five pink/salmon Molson Brewery industrial volumes in the center of the block have zero recessed 3D windows.",
+    "Fail Trigger #5: Bare leafless tree trunks and floating twigs in the sky (NW_Iso, NE_Iso)."
+  ],
+  "required_fixes_iter2": [
+    "Apply floor-by-floor recessed industrial multi-pane windows, stone sills, brick pilasters, and rich heritage red-brick PBR to all 5 Molson Brewery central wings.",
+    "Add the iconic 4-sided clockfaces to the Molson Brewery Clocktower.",
+    "Fix jacaranda_tree instancing so green leaf canopies are attached to trunks and remove floating sky twigs."
+  ],
+  "rsi_rule": "RSI-009"
+}

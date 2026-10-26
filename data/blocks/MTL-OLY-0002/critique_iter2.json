@@ -1,0 +1,11 @@
+{
+  "block_id": "MTL-OLY-0002",
+  "iteration": 2,
+  "pass_threshold": 95.0,
+  "visual_critic_score": 96,
+  "streets_critic_score": 99,
+  "composite_score": 96.75,
+  "verdict": "PASS",
+  "mean_color_sim_pct": 76.4,
+  "mean_edge_ratio": 1.02
+}

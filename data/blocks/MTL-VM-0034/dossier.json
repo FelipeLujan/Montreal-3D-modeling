@@ -1,0 +1,8458 @@
+{
+  "block_id": "MTL-VM-0034",
+  "name": "Faubourg Québec & Gare Dalhousie Historic Square (Rue Notre-Dame Est / Rue Dalhousie)",
+  "street_address": "200 Rue Berri / 417 Rue Notre-Dame Est, Montréal, QC H2Y 1C9",
+  "archetype": "1884 Historic Cut-Stone Railway Terminal (Gare Dalhousie), Tree-Lined Urban Square, Historic Brick Warehouse Conversions & Waterfront Bridge Edge",
+  "blender_center_xy_m": [
+    453.286,
+    777.01
+  ],
+  "crs": {
+    "projection": "Local Metric Tangent Plane (EPSG:32188 / MTM Zone 8 aligned)",
+    "master_origin_wgs84": [
+      45.50472,
+      -73.55661
+    ],
+    "block_center_wgs84": [
+      45.5117,
+      -73.5508
+    ],
+    "block_center_xy_m": [
+      453.286,
+      777.01
+    ],
+    "unit": "meters"
+  },
+  "satellite": {
+    "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0034\\streetview\\satellite_topdown.png",
+    "span_meters": 133.91,
+    "center_xy_m": [
+      453.286,
+      777.01
+    ]
+  },
+  "streetview_cameras": [
+    {
+      "label": "Gare_Dalhousie_Portico_Front",
+      "requested_lat": 45.51171,
+      "requested_lon": -73.5516,
+      "actual_lat": 45.5117131830962,
+      "actual_lon": -73.55160459274235,
+      "blender_cam_xy_m": [
+        390.513,
+        778.478
+      ],
+      "heading": 119,
+      "heading_deg": 119,
+      "pitch_deg": 12,
+      "fov_deg": 90,
+      "pano_id": "yIHusQh2yYI83_p44kOMKg",
+      "date": "2009-04",
+      "copyright": "© Google",
+      "refetched_source": "direct",
+      "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0034\\streetview\\Gare_Dalhousie_Portico_Front.jpg",
+      "google_maps_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.51171,-73.55160&heading=119&pitch=12&fov=90&pano=yIHusQh2yYI83_p44kOMKg"
+    },
+    {
+      "label": "Square_Dalhousie_Park_Walk",
+      "requested_lat": 45.51232,
+      "requested_lon": -73.55124,
+      "actual_lat": 45.5123209853117,
+      "actual_lon": -73.55124185877908,
+      "blender_cam_xy_m": [
+        418.813,
+        846.138
+      ],
+      "heading": 153.5,
+      "heading_deg": 153.5,
+      "pitch_deg": 12,
+      "fov_deg": 90,
+      "pano_id": "6bB6J_usJE0Rquz2fQnNzg",
+      "date": "2022-11",
+      "copyright": "© Google",
+      "refetched_source": "street:Rue Notre-Dame Est",
+      "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0034\\streetview\\Square_Dalhousie_Park_Walk.jpg",
+      "google_maps_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.51232,-73.55124&heading=153.5&pitch=12&fov=90&pano=6bB6J_usJE0Rquz2fQnNzg"
+    },
+    {
+      "label": "Rue_NotreDameEst_Railway_Bridge",
+      "requested_lat": 45.51107,
+      "requested_lon": -73.55054,
+      "actual_lat": 45.5110651319257,
+      "actual_lon": -73.55053976920613,
+      "blender_cam_xy_m": [
+        473.589,
+        706.337
+      ],
+      "heading": 344.0,
+      "heading_deg": 344.0,
+      "pitch_deg": 12,
+      "fov_deg": 90,
+      "pano_id": "0L4rpAq5qM47-WajzOZhDQ",
+      "date": "2019-06",
+      "copyright": "© Google",
+      "refetched_source": "street:Rue Berri",
+      "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0034\\streetview\\Rue_NotreDameEst_Railway_Bridge.jpg",
+      "google_maps_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.51107,-73.55054&heading=344.0&pitch=12&fov=90&pano=0L4rpAq5qM47-WajzOZhDQ"
+    },
+    {
+      "label": "Rue_Dalhousie_South_Approach",
+      "requested_lat": 45.51109,
+      "requested_lon": -73.55005,
+      "actual_lat": 45.51109173399426,
+      "actual_lon": -73.55004556097592,
+      "blender_cam_xy_m": [
+        512.147,
+        709.298
+      ],
+      "heading": 340,
+      "heading_deg": 340,
+      "pitch_deg": 12,
+      "fov_deg": 90,
+      "pano_id": "ZKEbcro11Ey3Z_6wAwD9-w",
+      "date": "2022-08",
+      "copyright": "© Google",
+      "refetched_source": "direct",
+      "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0034\\streetview\\Rue_Dalhousie_South_Approach.jpg",
+      "google_maps_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.51109,-73.55005&heading=340&pitch=12&fov=90&pano=ZKEbcro11Ey3Z_6wAwD9-w"
+    }
+  ],
+  "osm_features": {
+    "buildings": [
+      {
+        "id": 46866829,
+        "name": "Gare Dalhousie",
+        "tags": {
+          "attribution": "Natural Resources Canada",
+          "building": "yes",
+          "canvec:CODE": "2010252",
+          "canvec:UUID": "11CF452ACB28E5F4E0409C8467120387",
+          "historic": "building",
+          "name": "Gare Dalhousie",
+          "source": "CanVec_Import_2009"
+        },
+        "centroid_latlon": [
+          45.511621,
+          -73.551366
+        ],
+        "centroid_xy": [
+          409.13,
+          768.258
+        ],
+        "coords_xy": [
+          [
+            407.568,
+            744.839
+          ],
+          [
+            389.912,
+            752.286
+          ],
+          [
+            411.406,
+            803.204
+          ],
+          [
+            429.194,
+            796.124
+          ],
+          [
+            407.568,
+            744.839
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 46866830,
+        "name": "",
+        "tags": {
+          "attribution": "Natural Resources Canada",
+          "building": "yes",
+          "canvec:CODE": "2010252",
+          "canvec:UUID": "11CF452AD1ADE5F4E0409C8467120387",
+          "source": "CanVec_Import_2009"
+        },
+        "centroid_latlon": [
+          45.512907,
+          -73.552275
+        ],
+        "centroid_xy": [
+          338.21,
+          911.335
+        ],
+        "coords_xy": [
+          [
+            355.42,
+            896.768
+          ],
+          [
+            349.319,
+            899.161
+          ],
+          [
+            348.867,
+            900.063
+          ],
+          [
+            345.309,
+            901.577
+          ],
+          [
+            343.889,
+            901.109
+          ],
+          [
+            329.097,
+            907.087
+          ],
+          [
+            328.543,
+            908.4
+          ],
+          [
+            324.033,
+            910.593
+          ],
+          [
+            323.425,
+            910.426
+          ],
+          [
+            322.894,
+            910.382
+          ],
+          [
+            317.105,
+            912.742
+          ],
+          [
+            316.536,
+            913.61
+          ],
+          [
+            316.341,
+            914.612
+          ],
+          [
+            316.497,
+            915.491
+          ],
+          [
+            316.903,
+            916.427
+          ],
+          [
+            318.635,
+            915.759
+          ],
+          [
+            319.329,
+            917.54
+          ],
+          [
+            311.863,
+            920.724
+          ],
+          [
+            311.137,
+            922.427
+          ],
+          [
+            319.462,
+            942.498
+          ],
+          [
+            321.272,
+            943.377
+          ],
+          [
+            343.858,
+            933.937
+          ],
+          [
+            347.018,
+            932.612
+          ],
+          [
+            368.067,
+            923.462
+          ],
+          [
+            368.699,
+            921.681
+          ],
+          [
+            360.312,
+            901.688
+          ],
+          [
+            358.697,
+            901.165
+          ],
+          [
+            356.996,
+            901.944
+          ],
+          [
+            356.138,
+            900.018
+          ],
+          [
+            357.839,
+            899.306
+          ],
+          [
+            357.316,
+            897.981
+          ],
+          [
+            356.739,
+            897.224
+          ],
+          [
+            356.154,
+            896.845
+          ],
+          [
+            355.42,
+            896.768
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0033",
+        "is_primary_owner": false
+      },
+      {
+        "id": 46866833,
+        "name": "",
+        "tags": {
+          "attribution": "Natural Resources Canada",
+          "building": "industrial",
+          "canvec:CODE": "2010252",
+          "canvec:UUID": "11CF452A5633E5F4E0409C8467120387",
+          "demolished": "yes",
+          "source": "CanVec_Import_2009"
+        },
+        "centroid_latlon": [
+          45.514394,
+          -73.548962
+        ],
+        "centroid_xy": [
+          596.701,
+          1076.923
+        ],
+        "coords_xy": [
+          [
+            634.18,
+            1031.286
+          ],
+          [
+            515.592,
+            1073.354
+          ],
+          [
+            540.152,
+            1145.088
+          ],
+          [
+            659.403,
+            1103.599
+          ],
+          [
+            634.18,
+            1031.286
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 224757074,
+        "name": "Sir George-Étienne Cartier NHS",
+        "tags": {
+          "building": "yes",
+          "name": "Sir George-Étienne Cartier NHS",
+          "source": "Bing",
+          "tourism": "museum",
+          "website": "https://parcs.canada.ca/lhn-nhs/qc/etiennecartier",
+          "wikidata": "Q3238273",
+          "wikipedia": "fr:Lieu historique national de Sir-George-Étienne-Cartier"
+        },
+        "centroid_latlon": [
+          45.511169,
+          -73.551741
+        ],
+        "centroid_xy": [
+          379.843,
+          717.952
+        ],
+        "coords_xy": [
+          [
+            380.722,
+            727.74
+          ],
+          [
+            391.964,
+            722.82
+          ],
+          [
+            384.053,
+            703.561
+          ],
+          [
+            371.695,
+            708.482
+          ],
+          [
+            371.219,
+            708.66
+          ],
+          [
+            378.529,
+            726.66
+          ],
+          [
+            380.722,
+            727.74
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 339924173,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510413,
+          -73.552129
+        ],
+        "centroid_xy": [
+          349.605,
+          633.712
+        ],
+        "coords_xy": [
+          [
+            335.057,
+            620.684
+          ],
+          [
+            346.737,
+            648.759
+          ],
+          [
+            347.291,
+            648.603
+          ],
+          [
+            364.392,
+            641.69
+          ],
+          [
+            365.126,
+            641.467
+          ],
+          [
+            353.571,
+            614.094
+          ],
+          [
+            335.057,
+            620.684
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0032",
+        "is_primary_owner": false
+      },
+      {
+        "id": 339924174,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510603,
+          -73.552023
+        ],
+        "centroid_xy": [
+          357.845,
+          654.877
+        ],
+        "coords_xy": [
+          [
+            347.291,
+            648.603
+          ],
+          [
+            356.645,
+            671.167
+          ],
+          [
+            373.606,
+            664.321
+          ],
+          [
+            364.392,
+            641.69
+          ],
+          [
+            347.291,
+            648.603
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0032",
+        "is_primary_owner": false
+      },
+      {
+        "id": 339924175,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510832,
+          -73.551878
+        ],
+        "centroid_xy": [
+          369.161,
+          680.362
+        ],
+        "coords_xy": [
+          [
+            356.645,
+            671.167
+          ],
+          [
+            366.795,
+            695.78
+          ],
+          [
+            377.694,
+            691.127
+          ],
+          [
+            383.577,
+            688.611
+          ],
+          [
+            373.606,
+            664.321
+          ],
+          [
+            356.645,
+            671.167
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0032",
+        "is_primary_owner": false
+      },
+      {
+        "id": 339924176,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510982,
+          -73.551769
+        ],
+        "centroid_xy": [
+          377.696,
+          697.057
+        ],
+        "coords_xy": [
+          [
+            366.273,
+            696.025
+          ],
+          [
+            366.795,
+            695.78
+          ],
+          [
+            377.694,
+            691.127
+          ],
+          [
+            379.169,
+            694.211
+          ],
+          [
+            391.613,
+            689.268
+          ],
+          [
+            395.701,
+            699.031
+          ],
+          [
+            384.053,
+            703.561
+          ],
+          [
+            371.695,
+            708.482
+          ],
+          [
+            366.273,
+            696.025
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 339924177,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510467,
+          -73.55145
+        ],
+        "centroid_xy": [
+          402.582,
+          639.723
+        ],
+        "coords_xy": [
+          [
+            411.789,
+            649.059
+          ],
+          [
+            399.633,
+            652.989
+          ],
+          [
+            396.099,
+            654.247
+          ],
+          [
+            391.987,
+            626.194
+          ],
+          [
+            398.939,
+            624.358
+          ],
+          [
+            407.841,
+            622.154
+          ],
+          [
+            411.789,
+            649.059
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0019",
+        "is_primary_owner": false
+      },
+      {
+        "id": 340013662,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510622,
+          -73.55138
+        ],
+        "centroid_xy": [
+          408.011,
+          656.99
+        ],
+        "coords_xy": [
+          [
+            411.789,
+            649.059
+          ],
+          [
+            399.633,
+            652.989
+          ],
+          [
+            402.255,
+            669.219
+          ],
+          [
+            414.589,
+            664.622
+          ],
+          [
+            411.789,
+            649.059
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0019",
+        "is_primary_owner": false
+      },
+      {
+        "id": 340013663,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510845,
+          -73.551455
+        ],
+        "centroid_xy": [
+          402.165,
+          681.802
+        ],
+        "coords_xy": [
+          [
+            414.589,
+            664.622
+          ],
+          [
+            402.255,
+            669.219
+          ],
+          [
+            389.163,
+            674.106
+          ],
+          [
+            390.607,
+            684.492
+          ],
+          [
+            394.133,
+            683.557
+          ],
+          [
+            396.957,
+            698.029
+          ],
+          [
+            397.441,
+            700.89
+          ],
+          [
+            419.754,
+            696.682
+          ],
+          [
+            414.589,
+            664.622
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340115876,
+        "name": "",
+        "tags": {
+          "addr:housenumber": "801",
+          "addr:street": "Rue de la Commune Est",
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.512301,
+          -73.549763
+        ],
+        "centroid_xy": [
+          534.205,
+          843.861
+        ],
+        "coords_xy": [
+          [
+            546.269,
+            822.929
+          ],
+          [
+            503.46,
+            838.781
+          ],
+          [
+            509.795,
+            855.691
+          ],
+          [
+            534.324,
+            846.852
+          ],
+          [
+            540.761,
+            863.338
+          ],
+          [
+            558.557,
+            856.503
+          ],
+          [
+            546.269,
+            822.929
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340115877,
+        "name": "",
+        "tags": {
+          "addr:housenumber": "859",
+          "addr:street": "Rue de la Commune Est",
+          "building": "apartments",
+          "building:levels": "9",
+          "roof:shape": "flat"
+        },
+        "centroid_latlon": [
+          45.512655,
+          -73.549654
+        ],
+        "centroid_xy": [
+          542.704,
+          883.345
+        ],
+        "coords_xy": [
+          [
+            540.761,
+            863.338
+          ],
+          [
+            546.83,
+            880.359
+          ],
+          [
+            545.754,
+            880.893
+          ],
+          [
+            546.745,
+            883.988
+          ],
+          [
+            522.301,
+            897.424
+          ],
+          [
+            522.496,
+            899.439
+          ],
+          [
+            531.437,
+            914.857
+          ],
+          [
+            571.398,
+            893.306
+          ],
+          [
+            558.557,
+            856.503
+          ],
+          [
+            540.761,
+            863.338
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340115878,
+        "name": "",
+        "tags": {
+          "addr:housenumber": "363",
+          "addr:street": "Rue Saint-Hubert",
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.512565,
+          -73.550415
+        ],
+        "centroid_xy": [
+          483.344,
+          873.352
+        ],
+        "coords_xy": [
+          [
+            509.795,
+            855.691
+          ],
+          [
+            474.874,
+            868.259
+          ],
+          [
+            479.657,
+            881.695
+          ],
+          [
+            487.833,
+            879.914
+          ],
+          [
+            496.212,
+            901.933
+          ],
+          [
+            491.874,
+            903.58
+          ],
+          [
+            475.67,
+            909.224
+          ],
+          [
+            459.489,
+            864.452
+          ],
+          [
+            457.398,
+            865.008
+          ],
+          [
+            454.067,
+            856.002
+          ],
+          [
+            503.46,
+            838.781
+          ],
+          [
+            509.795,
+            855.691
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340115879,
+        "name": "",
+        "tags": {
+          "addr:housenumber": "370",
+          "addr:street": "Rue Saint-André",
+          "building": "yes",
+          "building:levels": "15"
+        },
+        "centroid_latlon": [
+          45.512885,
+          -73.550178
+        ],
+        "centroid_xy": [
+          501.853,
+          908.96
+        ],
+        "coords_xy": [
+          [
+            522.496,
+            899.439
+          ],
+          [
+            513.54,
+            904.415
+          ],
+          [
+            512.9,
+            902.834
+          ],
+          [
+            510.825,
+            903.558
+          ],
+          [
+            509.795,
+            901.732
+          ],
+          [
+            493.091,
+            907.298
+          ],
+          [
+            491.874,
+            903.58
+          ],
+          [
+            475.67,
+            909.224
+          ],
+          [
+            477.886,
+            914.423
+          ],
+          [
+            476.458,
+            915.135
+          ],
+          [
+            485.617,
+            940.538
+          ],
+          [
+            531.437,
+            914.857
+          ],
+          [
+            522.496,
+            899.439
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340115880,
+        "name": "",
+        "tags": {
+          "addr:housenumber": "901",
+          "addr:street": "Rue de la Commune Est",
+          "building": "apartments",
+          "building:levels": "8",
+          "roof:shape": "flat"
+        },
+        "centroid_latlon": [
+          45.513175,
+          -73.549424
+        ],
+        "centroid_xy": [
+          560.627,
+          941.17
+        ],
+        "coords_xy": [
+          [
+            532.436,
+            934.36
+          ],
+          [
+            538.81,
+            951.103
+          ],
+          [
+            565.812,
+            942.208
+          ],
+          [
+            565.118,
+            940.093
+          ],
+          [
+            566.522,
+            939.648
+          ],
+          [
+            575.182,
+            963.659
+          ],
+          [
+            592.495,
+            956.813
+          ],
+          [
+            576.828,
+            908.289
+          ],
+          [
+            532.436,
+            934.36
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340116568,
+        "name": "",
+        "tags": {
+          "building": "apartments",
+          "building:levels": "7",
+          "roof:shape": "flat"
+        },
+        "centroid_latlon": [
+          45.511434,
+          -73.550305
+        ],
+        "centroid_xy": [
+          491.921,
+          747.405
+        ],
+        "coords_xy": [
+          [
+            500.207,
+            763.629
+          ],
+          [
+            521.147,
+            756.26
+          ],
+          [
+            504.552,
+            718.534
+          ],
+          [
+            459.192,
+            733.918
+          ],
+          [
+            465.052,
+            753.165
+          ],
+          [
+            493.091,
+            742.701
+          ],
+          [
+            500.207,
+            763.629
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340116569,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.511798,
+          -73.549923
+        ],
+        "centroid_xy": [
+          521.734,
+          787.941
+        ],
+        "coords_xy": [
+          [
+            523.355,
+            762.516
+          ],
+          [
+            506.198,
+            768.683
+          ],
+          [
+            514.882,
+            792.739
+          ],
+          [
+            516.926,
+            792.216
+          ],
+          [
+            517.496,
+            794.009
+          ],
+          [
+            507.205,
+            796.814
+          ],
+          [
+            513.056,
+            812.276
+          ],
+          [
+            538.568,
+            803.092
+          ],
+          [
+            533.372,
+            789.533
+          ],
+          [
+            527.856,
+            790.97
+          ],
+          [
+            527.521,
+            789.968
+          ],
+          [
+            532.748,
+            787.897
+          ],
+          [
+            523.355,
+            762.516
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340116570,
+        "name": "",
+        "tags": {
+          "building": "apartments"
+        },
+        "centroid_latlon": [
+          45.511368,
+          -73.550927
+        ],
+        "centroid_xy": [
+          443.372,
+          740.01
+        ],
+        "coords_xy": [
+          [
+            438.206,
+            738.494
+          ],
+          [
+            450.197,
+            735.588
+          ],
+          [
+            450.876,
+            742.913
+          ],
+          [
+            439.376,
+            744.56
+          ],
+          [
+            438.206,
+            738.494
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340116571,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511878,
+          -73.550838
+        ],
+        "centroid_xy": [
+          450.356,
+          796.871
+        ],
+        "coords_xy": [
+          [
+            451.539,
+            792.227
+          ],
+          [
+            447.053,
+            793.797
+          ],
+          [
+            446.639,
+            793.964
+          ],
+          [
+            448.941,
+            806.098
+          ],
+          [
+            456.423,
+            802.914
+          ],
+          [
+            451.539,
+            792.227
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 340116572,
+        "name": "",
+        "tags": {
+          "building": "residential",
+          "building:levels": "3",
+          "roof:shape": "flat"
+        },
+        "centroid_latlon": [
+          45.512141,
+          -73.550779
+        ],
+        "centroid_xy": [
+          454.933,
+          826.122
+        ],
+        "coords_xy": [
+          [
+            456.025,
+            820.948
+          ],
+          [
+            450.314,
+            822.228
+          ],
+          [
+            453.006,
+            834.34
+          ],
+          [
+            459.294,
+            832.147
+          ],
+          [
+            456.025,
+            820.948
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 341110717,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510491,
+          -73.550915
+        ],
+        "centroid_xy": [
+          444.346,
+          642.421
+        ],
+        "coords_xy": [
+          [
+            460.48,
+            641.879
+          ],
+          [
+            442.809,
+            648.291
+          ],
+          [
+            424.654,
+            653.323
+          ],
+          [
+            422.204,
+            639.096
+          ],
+          [
+            455.448,
+            630.057
+          ],
+          [
+            460.48,
+            641.879
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0019",
+        "is_primary_owner": false
+      },
+      {
+        "id": 341112335,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510735,
+          -73.550768
+        ],
+        "centroid_xy": [
+          455.798,
+          669.587
+        ],
+        "coords_xy": [
+          [
+            477.152,
+            677.635
+          ],
+          [
+            460.48,
+            641.879
+          ],
+          [
+            442.809,
+            648.291
+          ],
+          [
+            445.726,
+            656.061
+          ],
+          [
+            452.647,
+            673.483
+          ],
+          [
+            443.628,
+            676.989
+          ],
+          [
+            448.02,
+            687.854
+          ],
+          [
+            454.566,
+            686.452
+          ],
+          [
+            477.152,
+            677.635
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 341112494,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510647,
+          -73.551043
+        ],
+        "centroid_xy": [
+          434.363,
+          659.765
+        ],
+        "coords_xy": [
+          [
+            426.776,
+            667.85
+          ],
+          [
+            424.654,
+            653.323
+          ],
+          [
+            442.809,
+            648.291
+          ],
+          [
+            445.726,
+            656.061
+          ],
+          [
+            436.489,
+            659.301
+          ],
+          [
+            437.308,
+            665.679
+          ],
+          [
+            426.776,
+            667.85
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0019",
+        "is_primary_owner": false
+      },
+      {
+        "id": 341112556,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510913,
+          -73.550549
+        ],
+        "centroid_xy": [
+          472.901,
+          689.346
+        ],
+        "coords_xy": [
+          [
+            458.233,
+            697.383
+          ],
+          [
+            454.566,
+            686.452
+          ],
+          [
+            477.152,
+            677.635
+          ],
+          [
+            478.689,
+            680.696
+          ],
+          [
+            479.189,
+            680.641
+          ],
+          [
+            482.021,
+            687.242
+          ],
+          [
+            482.442,
+            687.042
+          ],
+          [
+            483.994,
+            690.493
+          ],
+          [
+            476.809,
+            692.697
+          ],
+          [
+            476.692,
+            692.14
+          ],
+          [
+            472.908,
+            693.409
+          ],
+          [
+            472.705,
+            692.763
+          ],
+          [
+            466.979,
+            694.867
+          ],
+          [
+            458.233,
+            697.383
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 341112682,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510982,
+          -73.550911
+        ],
+        "centroid_xy": [
+          444.645,
+          697.095
+        ],
+        "coords_xy": [
+          [
+            432.557,
+            703.461
+          ],
+          [
+            430.474,
+            691.127
+          ],
+          [
+            448.02,
+            687.854
+          ],
+          [
+            454.566,
+            686.452
+          ],
+          [
+            458.233,
+            697.383
+          ],
+          [
+            452.303,
+            698.719
+          ],
+          [
+            452.264,
+            699.487
+          ],
+          [
+            442.692,
+            701.179
+          ],
+          [
+            442.785,
+            701.825
+          ],
+          [
+            432.557,
+            703.461
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 341113846,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510839,
+          -73.552277
+        ],
+        "centroid_xy": [
+          338.042,
+          681.22
+        ],
+        "coords_xy": [
+          [
+            345.262,
+            682.466
+          ],
+          [
+            330.821,
+            688.333
+          ],
+          [
+            327.583,
+            679.683
+          ],
+          [
+            341.283,
+            673.149
+          ],
+          [
+            345.262,
+            682.466
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0032",
+        "is_primary_owner": false
+      },
+      {
+        "id": 341113972,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.510943,
+          -73.552276
+        ],
+        "centroid_xy": [
+          338.152,
+          692.695
+        ],
+        "coords_xy": [
+          [
+            333.965,
+            697.539
+          ],
+          [
+            330.821,
+            688.333
+          ],
+          [
+            345.262,
+            682.466
+          ],
+          [
+            348.937,
+            692.218
+          ],
+          [
+            335.962,
+            698.073
+          ],
+          [
+            333.965,
+            697.539
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0032",
+        "is_primary_owner": false
+      },
+      {
+        "id": 341122025,
+        "name": "",
+        "tags": {
+          "addr:housenumber": "365",
+          "addr:street": "Rue Saint-André",
+          "building": "apartments",
+          "building:levels": "18",
+          "roof:shape": "flat"
+        },
+        "centroid_latlon": [
+          45.513415,
+          -73.550036
+        ],
+        "centroid_xy": [
+          512.891,
+          967.944
+        ],
+        "coords_xy": [
+          [
+            524.97,
+            981.715
+          ],
+          [
+            523.698,
+            982.161
+          ],
+          [
+            505.684,
+            988.428
+          ],
+          [
+            504.061,
+            988.996
+          ],
+          [
+            500.09,
+            976.906
+          ],
+          [
+            498.467,
+            977.419
+          ],
+          [
+            492.296,
+            960.253
+          ],
+          [
+            493.981,
+            959.607
+          ],
+          [
+            493.091,
+            957.559
+          ],
+          [
+            493.255,
+            955.823
+          ],
+          [
+            532.436,
+            934.36
+          ],
+          [
+            538.81,
+            951.103
+          ],
+          [
+            527.802,
+            955.4
+          ],
+          [
+            531.617,
+            965.841
+          ],
+          [
+            521.038,
+            969.815
+          ],
+          [
+            524.97,
+            981.715
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 897782479,
+        "name": "",
+        "tags": {
+          "addr:housenumber": "1025",
+          "addr:street": "Rue de la Commune Est",
+          "building": "apartments",
+          "building:levels": "18",
+          "roof:shape": "flat"
+        },
+        "centroid_latlon": [
+          45.513543,
+          -73.549197
+        ],
+        "centroid_xy": [
+          578.327,
+          982.201
+        ],
+        "coords_xy": [
+          [
+            562.028,
+            1013.03
+          ],
+          [
+            603.355,
+            986.669
+          ],
+          [
+            601.311,
+            981.048
+          ],
+          [
+            602.387,
+            980.424
+          ],
+          [
+            593.836,
+            956.357
+          ],
+          [
+            592.495,
+            956.813
+          ],
+          [
+            575.182,
+            963.659
+          ],
+          [
+            579.107,
+            973.812
+          ],
+          [
+            568.317,
+            977.842
+          ],
+          [
+            570.088,
+            983.163
+          ],
+          [
+            553.353,
+            989.463
+          ],
+          [
+            554.765,
+            993.304
+          ],
+          [
+            562.028,
+            1013.03
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1083631062,
+        "name": "",
+        "tags": {
+          "addr:housenumber": "360",
+          "addr:street": "Rue Atateken",
+          "building": "apartments",
+          "building:levels": "8",
+          "roof:shape": "flat"
+        },
+        "centroid_latlon": [
+          45.513773,
+          -73.549775
+        ],
+        "centroid_xy": [
+          533.285,
+          1007.741
+        ],
+        "coords_xy": [
+          [
+            505.684,
+            988.428
+          ],
+          [
+            523.698,
+            982.161
+          ],
+          [
+            533.216,
+            1007.82
+          ],
+          [
+            535.463,
+            1008.844
+          ],
+          [
+            533.755,
+            1012.74
+          ],
+          [
+            535.385,
+            1013.386
+          ],
+          [
+            538.342,
+            1006.629
+          ],
+          [
+            544.412,
+            1004.469
+          ],
+          [
+            542.11,
+            998.001
+          ],
+          [
+            554.765,
+            993.304
+          ],
+          [
+            562.028,
+            1013.03
+          ],
+          [
+            562.582,
+            1014.566
+          ],
+          [
+            521.061,
+            1041.294
+          ],
+          [
+            515.873,
+            1025.876
+          ],
+          [
+            518.502,
+            1024.874
+          ],
+          [
+            505.684,
+            988.428
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1244672623,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.512163,
+          -73.551752
+        ],
+        "centroid_xy": [
+          378.993,
+          828.516
+        ],
+        "coords_xy": [
+          [
+            360.78,
+            869.795
+          ],
+          [
+            351.995,
+            848.811
+          ],
+          [
+            379.895,
+            836.967
+          ],
+          [
+            351.004,
+            782.598
+          ],
+          [
+            369.253,
+            770.398
+          ],
+          [
+            370.798,
+            773.815
+          ],
+          [
+            375.167,
+            772.613
+          ],
+          [
+            395.881,
+            822.094
+          ],
+          [
+            398.432,
+            820.992
+          ],
+          [
+            406.78,
+            841.998
+          ],
+          [
+            400.359,
+            845.015
+          ],
+          [
+            402.637,
+            851.071
+          ],
+          [
+            380.378,
+            860.244
+          ],
+          [
+            380.753,
+            861.535
+          ],
+          [
+            360.78,
+            869.795
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0033",
+        "is_primary_owner": false
+      },
+      {
+        "id": 1247702695,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.51142,
+          -73.550915
+        ],
+        "centroid_xy": [
+          444.282,
+          745.836
+        ],
+        "coords_xy": [
+          [
+            439.376,
+            744.56
+          ],
+          [
+            440.281,
+            749.47
+          ],
+          [
+            451.5,
+            747.677
+          ],
+          [
+            450.876,
+            742.913
+          ],
+          [
+            439.376,
+            744.56
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702696,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511461,
+          -73.550876
+        ],
+        "centroid_xy": [
+          447.334,
+          750.389
+        ],
+        "coords_xy": [
+          [
+            451.5,
+            747.677
+          ],
+          [
+            452.374,
+            752.676
+          ],
+          [
+            441.014,
+            754.446
+          ],
+          [
+            440.281,
+            749.47
+          ],
+          [
+            451.5,
+            747.677
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702697,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511518,
+          -73.550893
+        ],
+        "centroid_xy": [
+          446.048,
+          756.703
+        ],
+        "coords_xy": [
+          [
+            441.872,
+            759.388
+          ],
+          [
+            441.014,
+            754.446
+          ],
+          [
+            452.374,
+            752.676
+          ],
+          [
+            453.107,
+            757.618
+          ],
+          [
+            441.872,
+            759.388
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702698,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511553,
+          -73.550885
+        ],
+        "centroid_xy": [
+          446.649,
+          760.646
+        ],
+        "coords_xy": [
+          [
+            441.872,
+            759.388
+          ],
+          [
+            442.59,
+            764.32
+          ],
+          [
+            453.801,
+            762.516
+          ],
+          [
+            453.107,
+            757.618
+          ],
+          [
+            441.872,
+            759.388
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702699,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511597,
+          -73.550875
+        ],
+        "centroid_xy": [
+          447.396,
+          765.542
+        ],
+        "coords_xy": [
+          [
+            442.59,
+            764.32
+          ],
+          [
+            443.425,
+            769.207
+          ],
+          [
+            454.574,
+            767.348
+          ],
+          [
+            453.801,
+            762.516
+          ],
+          [
+            442.59,
+            764.32
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702700,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511649,
+          -73.550864
+        ],
+        "centroid_xy": [
+          448.314,
+          771.388
+        ],
+        "coords_xy": [
+          [
+            444.049,
+            774.038
+          ],
+          [
+            455.471,
+            772.312
+          ],
+          [
+            454.574,
+            767.348
+          ],
+          [
+            443.425,
+            769.207
+          ],
+          [
+            444.049,
+            774.038
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702701,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511696,
+          -73.550862
+        ],
+        "centroid_xy": [
+          448.423,
+          776.548
+        ],
+        "coords_xy": [
+          [
+            444.049,
+            774.038
+          ],
+          [
+            445.04,
+            780.105
+          ],
+          [
+            445.711,
+            781.697
+          ],
+          [
+            456.22,
+            777.099
+          ],
+          [
+            455.471,
+            772.312
+          ],
+          [
+            444.049,
+            774.038
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702702,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511887,
+          -73.550761
+        ],
+        "centroid_xy": [
+          456.293,
+          797.849
+        ],
+        "coords_xy": [
+          [
+            456.423,
+            802.914
+          ],
+          [
+            460.839,
+            800.921
+          ],
+          [
+            456.243,
+            790.268
+          ],
+          [
+            451.539,
+            792.227
+          ],
+          [
+            456.423,
+            802.914
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702703,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.51185,
+          -73.550715
+        ],
+        "centroid_xy": [
+          459.912,
+          793.764
+        ],
+        "coords_xy": [
+          [
+            456.243,
+            790.268
+          ],
+          [
+            460.956,
+            788.42
+          ],
+          [
+            465.278,
+            798.94
+          ],
+          [
+            460.839,
+            800.921
+          ],
+          [
+            456.243,
+            790.268
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702704,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511852,
+          -73.550645
+        ],
+        "centroid_xy": [
+          465.406,
+          793.919
+        ],
+        "coords_xy": [
+          [
+            465.278,
+            798.94
+          ],
+          [
+            470.037,
+            796.958
+          ],
+          [
+            465.481,
+            786.339
+          ],
+          [
+            460.956,
+            788.42
+          ],
+          [
+            465.278,
+            798.94
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702705,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511815,
+          -73.550597
+        ],
+        "centroid_xy": [
+          469.134,
+          789.794
+        ],
+        "coords_xy": [
+          [
+            465.481,
+            786.339
+          ],
+          [
+            470.076,
+            784.357
+          ],
+          [
+            474.593,
+            794.977
+          ],
+          [
+            470.037,
+            796.958
+          ],
+          [
+            465.481,
+            786.339
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702706,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511797,
+          -73.550538
+        ],
+        "centroid_xy": [
+          473.76,
+          787.792
+        ],
+        "coords_xy": [
+          [
+            470.076,
+            784.357
+          ],
+          [
+            474.749,
+            782.376
+          ],
+          [
+            479.306,
+            792.895
+          ],
+          [
+            474.593,
+            794.977
+          ],
+          [
+            470.076,
+            784.357
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702707,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511779,
+          -73.550478
+        ],
+        "centroid_xy": [
+          478.411,
+          785.827
+        ],
+        "coords_xy": [
+          [
+            474.749,
+            782.376
+          ],
+          [
+            479.165,
+            780.416
+          ],
+          [
+            484.088,
+            791.07
+          ],
+          [
+            479.306,
+            792.895
+          ],
+          [
+            474.749,
+            782.376
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702708,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.511776,
+          -73.550385
+        ],
+        "centroid_xy": [
+          485.674,
+          785.491
+        ],
+        "coords_xy": [
+          [
+            484.088,
+            791.07
+          ],
+          [
+            489.69,
+            788.61
+          ],
+          [
+            487.911,
+            784.969
+          ],
+          [
+            488.824,
+            784.702
+          ],
+          [
+            485.953,
+            777.6
+          ],
+          [
+            479.165,
+            780.416
+          ],
+          [
+            484.088,
+            791.07
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702709,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.512146,
+          -73.550714
+        ],
+        "centroid_xy": [
+          459.998,
+          826.667
+        ],
+        "coords_xy": [
+          [
+            459.294,
+            832.147
+          ],
+          [
+            464.537,
+            830.377
+          ],
+          [
+            460.971,
+            818.621
+          ],
+          [
+            455.892,
+            820.046
+          ],
+          [
+            459.294,
+            832.147
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702710,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.512108,
+          -73.550657
+        ],
+        "centroid_xy": [
+          464.41,
+          822.466
+        ],
+        "coords_xy": [
+          [
+            460.932,
+            818.243
+          ],
+          [
+            465.949,
+            817.174
+          ],
+          [
+            469.702,
+            828.295
+          ],
+          [
+            464.537,
+            830.377
+          ],
+          [
+            460.932,
+            818.243
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702711,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.512092,
+          -73.55059
+        ],
+        "centroid_xy": [
+          469.641,
+          820.634
+        ],
+        "coords_xy": [
+          [
+            466.167,
+            816.606
+          ],
+          [
+            471.285,
+            815.215
+          ],
+          [
+            474.882,
+            826.447
+          ],
+          [
+            469.702,
+            828.295
+          ],
+          [
+            466.167,
+            816.606
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702712,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.512069,
+          -73.550532
+        ],
+        "centroid_xy": [
+          474.208,
+          818.113
+        ],
+        "coords_xy": [
+          [
+            471.153,
+            814.692
+          ],
+          [
+            476.637,
+            813.167
+          ],
+          [
+            480.14,
+            824.466
+          ],
+          [
+            474.882,
+            826.447
+          ],
+          [
+            471.285,
+            815.215
+          ],
+          [
+            471.153,
+            814.692
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702713,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.51205,
+          -73.550465
+        ],
+        "centroid_xy": [
+          479.446,
+          815.97
+        ],
+        "coords_xy": [
+          [
+            476.434,
+            812.41
+          ],
+          [
+            481.748,
+            811.274
+          ],
+          [
+            485.352,
+            822.573
+          ],
+          [
+            480.14,
+            824.466
+          ],
+          [
+            476.567,
+            812.688
+          ],
+          [
+            476.434,
+            812.41
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702714,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.51204,
+          -73.550391
+        ],
+        "centroid_xy": [
+          485.229,
+          814.81
+        ],
+        "coords_xy": [
+          [
+            481.654,
+            810.684
+          ],
+          [
+            486.795,
+            809.471
+          ],
+          [
+            490.688,
+            820.636
+          ],
+          [
+            485.352,
+            822.573
+          ],
+          [
+            481.654,
+            810.684
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1247702715,
+        "name": "",
+        "tags": {
+          "building": "residential"
+        },
+        "centroid_latlon": [
+          45.512023,
+          -73.550321
+        ],
+        "centroid_xy": [
+          490.688,
+          812.953
+        ],
+        "coords_xy": [
+          [
+            486.788,
+            809.026
+          ],
+          [
+            492.342,
+            807.612
+          ],
+          [
+            496.836,
+            818.465
+          ],
+          [
+            490.688,
+            820.636
+          ],
+          [
+            486.788,
+            809.026
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1248578232,
+        "name": "",
+        "tags": {
+          "building": "yes"
+        },
+        "centroid_latlon": [
+          45.511273,
+          -73.549011
+        ],
+        "centroid_xy": [
+          592.843,
+          729.442
+        ],
+        "coords_xy": [
+          [
+            599.22,
+            733.239
+          ],
+          [
+            600.109,
+            730.534
+          ],
+          [
+            599.641,
+            728.508
+          ],
+          [
+            597.659,
+            726.471
+          ],
+          [
+            595.444,
+            725.848
+          ],
+          [
+            592.026,
+            716.185
+          ],
+          [
+            583.047,
+            719.369
+          ],
+          [
+            576.087,
+            721.84
+          ],
+          [
+            581.79,
+            738.015
+          ],
+          [
+            590.271,
+            735.009
+          ],
+          [
+            592.807,
+            734.108
+          ],
+          [
+            595.264,
+            735.065
+          ],
+          [
+            597.215,
+            734.764
+          ],
+          [
+            599.22,
+            733.239
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0034",
+        "is_primary_owner": true
+      }
+    ],
+    "highways": [
+      {
+        "id": 20318120,
+        "name": "Rue Berri",
+        "tags": {
+          "highway": "residential",
+          "incline": "up",
+          "lane_markings": "no",
+          "lit": "yes",
+          "name": "Rue Berri",
+          "oneway": "yes",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511459,
+          -73.55221
+        ],
+        "centroid_xy": [
+          343.267,
+          750.132
+        ],
+        "coords_xy": [
+          [
+            312.682,
+            763.919
+          ],
+          [
+            316.489,
+            761.592
+          ],
+          [
+            369.12,
+            738.894
+          ],
+          [
+            374.777,
+            736.122
+          ]
+        ]
+      },
+      {
+        "id": 20318122,
+        "name": "Rue Notre-Dame Est",
+        "tags": {
+          "highway": "tertiary",
+          "lanes": "1",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue Notre-Dame Est",
+          "oneway": "yes",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.510767,
+          -73.552137
+        ],
+        "centroid_xy": [
+          348.988,
+          673.124
+        ],
+        "coords_xy": [
+          [
+            319.142,
+            603.307
+          ],
+          [
+            322.762,
+            607.927
+          ],
+          [
+            354.726,
+            685.439
+          ],
+          [
+            373.536,
+            732.827
+          ],
+          [
+            374.777,
+            736.122
+          ]
+        ]
+      },
+      {
+        "id": 20318125,
+        "name": "Rue Notre-Dame Est",
+        "tags": {
+          "bridge": "yes",
+          "highway": "tertiary",
+          "lanes": "2",
+          "layer": "1",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue Notre-Dame Est",
+          "oneway": "yes",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.51314,
+          -73.550811
+        ],
+        "centroid_xy": [
+          452.409,
+          937.366
+        ],
+        "coords_xy": [
+          [
+            376.001,
+            739.44
+          ],
+          [
+            384.232,
+            759.522
+          ],
+          [
+            418.592,
+            842.577
+          ],
+          [
+            430.068,
+            870.741
+          ],
+          [
+            437.784,
+            889.576
+          ],
+          [
+            443.558,
+            905.951
+          ],
+          [
+            458.303,
+            951.782
+          ],
+          [
+            467.018,
+            975.159
+          ],
+          [
+            480.647,
+            1011.616
+          ],
+          [
+            494.347,
+            1052.437
+          ],
+          [
+            503.71,
+            1081.636
+          ],
+          [
+            534.652,
+            1167.953
+          ]
+        ]
+      },
+      {
+        "id": 27233500,
+        "name": "Rue du Glacis",
+        "tags": {
+          "highway": "residential",
+          "lit": "yes",
+          "name": "Rue du Glacis",
+          "oneway": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.513109,
+          -73.550964
+        ],
+        "centroid_xy": [
+          440.465,
+          933.818
+        ],
+        "coords_xy": [
+          [
+            432.814,
+            915.336
+          ],
+          [
+            435.264,
+            918.364
+          ],
+          [
+            453.318,
+            967.756
+          ]
+        ]
+      },
+      {
+        "id": 39368238,
+        "name": "Rue Bonneau",
+        "tags": {
+          "highway": "residential",
+          "lit": "no",
+          "name": "Rue Bonneau",
+          "oneway": "yes",
+          "sidewalk:both": "separate",
+          "surface": "sett"
+        },
+        "centroid_latlon": [
+          45.510365,
+          -73.550842
+        ],
+        "centroid_xy": [
+          450.025,
+          628.45
+        ],
+        "coords_xy": [
+          [
+            416.641,
+            637.772
+          ],
+          [
+            420.628,
+            636.67
+          ],
+          [
+            458.678,
+            626.128
+          ],
+          [
+            472.799,
+            622.12
+          ],
+          [
+            481.381,
+            619.56
+          ]
+        ]
+      },
+      {
+        "id": 39368248,
+        "name": "Rue Saint-Christophe",
+        "tags": {
+          "highway": "residential",
+          "lit": "yes",
+          "maxspeed": "30",
+          "name": "Rue Saint-Christophe",
+          "noexit": "yes",
+          "oneway": "yes",
+          "sidewalk": "left",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.51325,
+          -73.55195
+        ],
+        "centroid_xy": [
+          363.589,
+          949.508
+        ],
+        "coords_xy": [
+          [
+            292.459,
+            985.489
+          ],
+          [
+            300.058,
+            981.66
+          ],
+          [
+            429.023,
+            915.547
+          ],
+          [
+            432.814,
+            915.336
+          ]
+        ]
+      },
+      {
+        "id": 124134656,
+        "name": "",
+        "tags": {
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.51135,
+          -73.549673
+        ],
+        "centroid_xy": [
+          541.181,
+          738.063
+        ],
+        "coords_xy": [
+          [
+            512.175,
+            705.176
+          ],
+          [
+            521.404,
+            701.869
+          ],
+          [
+            524.392,
+            701.012
+          ],
+          [
+            526.624,
+            701.313
+          ],
+          [
+            530.064,
+            703.172
+          ],
+          [
+            532.124,
+            706.322
+          ],
+          [
+            535.409,
+            712.712
+          ],
+          [
+            572.717,
+            815.126
+          ],
+          [
+            576.789,
+            817.074
+          ],
+          [
+            580.113,
+            816.851
+          ]
+        ]
+      },
+      {
+        "id": 156250130,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "footway",
+          "motor_vehicle": "no"
+        },
+        "centroid_latlon": [
+          45.51192,
+          -73.550624
+        ],
+        "centroid_xy": [
+          467.014,
+          801.467
+        ],
+        "coords_xy": [
+          [
+            448.012,
+            809.148
+          ],
+          [
+            486.015,
+            793.786
+          ]
+        ]
+      },
+      {
+        "id": 331091139,
+        "name": "",
+        "tags": {
+          "highway": "footway",
+          "lit": "yes"
+        },
+        "centroid_latlon": [
+          45.512126,
+          -73.551094
+        ],
+        "centroid_xy": [
+          430.361,
+          824.388
+        ],
+        "coords_xy": [
+          [
+            448.012,
+            809.148
+          ],
+          [
+            441.482,
+            811.686
+          ],
+          [
+            421.931,
+            819.556
+          ],
+          [
+            417.757,
+            821.337
+          ],
+          [
+            424.022,
+            836.544
+          ],
+          [
+            428.96,
+            848.054
+          ]
+        ]
+      },
+      {
+        "id": 331091140,
+        "name": "",
+        "tags": {
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512193,
+          -73.55106
+        ],
+        "centroid_xy": [
+          432.983,
+          831.883
+        ],
+        "coords_xy": [
+          [
+            446.725,
+            824.833
+          ],
+          [
+            428.204,
+            834.273
+          ],
+          [
+            424.022,
+            836.544
+          ]
+        ]
+      },
+      {
+        "id": 331091141,
+        "name": "",
+        "tags": {
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512062,
+          -73.550923
+        ],
+        "centroid_xy": [
+          443.706,
+          817.263
+        ],
+        "coords_xy": [
+          [
+            452.358,
+            838.993
+          ],
+          [
+            446.725,
+            824.833
+          ],
+          [
+            441.482,
+            811.686
+          ],
+          [
+            434.258,
+            793.541
+          ]
+        ]
+      },
+      {
+        "id": 331091142,
+        "name": "",
+        "tags": {
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.511686,
+          -73.551028
+        ],
+        "centroid_xy": [
+          435.512,
+          775.482
+        ],
+        "coords_xy": [
+          [
+            431.371,
+            735.588
+          ],
+          [
+            437.714,
+            781.262
+          ],
+          [
+            438.705,
+            791.537
+          ],
+          [
+            434.258,
+            793.541
+          ]
+        ]
+      },
+      {
+        "id": 331091146,
+        "name": "Rue de la Porte-de-Québec",
+        "tags": {
+          "highway": "residential",
+          "lit": "yes",
+          "maxspeed": "30",
+          "name": "Rue de la Porte-de-Québec",
+          "oneway": "yes",
+          "sidewalk": "right",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.512832,
+          -73.550748
+        ],
+        "centroid_xy": [
+          457.359,
+          902.988
+        ],
+        "coords_xy": [
+          [
+            437.854,
+            851.115
+          ],
+          [
+            440.569,
+            858.051
+          ],
+          [
+            457.375,
+            900.964
+          ],
+          [
+            474.5,
+            949.589
+          ],
+          [
+            476.497,
+            955.221
+          ]
+        ]
+      },
+      {
+        "id": 331091975,
+        "name": "",
+        "tags": {
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.512878,
+          -73.550905
+        ],
+        "centroid_xy": [
+          445.095,
+          908.15
+        ],
+        "coords_xy": [
+          [
+            432.814,
+            915.336
+          ],
+          [
+            457.375,
+            900.964
+          ]
+        ]
+      },
+      {
+        "id": 331092136,
+        "name": "",
+        "tags": {
+          "handrail": "yes",
+          "highway": "steps",
+          "incline": "up",
+          "lit": "yes"
+        },
+        "centroid_latlon": [
+          45.511992,
+          -73.551316
+        ],
+        "centroid_xy": [
+          413.041,
+          809.521
+        ],
+        "coords_xy": [
+          [
+            417.757,
+            821.337
+          ],
+          [
+            408.324,
+            797.704
+          ]
+        ]
+      },
+      {
+        "id": 331092137,
+        "name": "",
+        "tags": {
+          "bridge": "yes",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "paved",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.513399,
+          -73.550586
+        ],
+        "centroid_xy": [
+          470.001,
+          966.182
+        ],
+        "coords_xy": [
+          [
+            408.324,
+            797.704
+          ],
+          [
+            406.14,
+            798.662
+          ],
+          [
+            422.906,
+            840.996
+          ],
+          [
+            435.311,
+            871.22
+          ],
+          [
+            438.026,
+            870.24
+          ],
+          [
+            446.951,
+            893.472
+          ],
+          [
+            454.488,
+            915.447
+          ],
+          [
+            465.02,
+            945.292
+          ],
+          [
+            462.664,
+            946.472
+          ],
+          [
+            472.487,
+            974.892
+          ],
+          [
+            475.171,
+            973.634
+          ],
+          [
+            486.553,
+            1005.159
+          ],
+          [
+            500.441,
+            1046.103
+          ],
+          [
+            497.812,
+            1047.516
+          ],
+          [
+            508.375,
+            1077.706
+          ],
+          [
+            515.748,
+            1098.323
+          ],
+          [
+            524.104,
+            1122.256
+          ],
+          [
+            539.489,
+            1166.183
+          ]
+        ]
+      },
+      {
+        "id": 396643489,
+        "name": "Rue Berri",
+        "tags": {
+          "cycleway:left": "no",
+          "cycleway:right": "separate",
+          "highway": "residential",
+          "incline": "down",
+          "lane_markings": "no",
+          "lit": "yes",
+          "name": "Rue Berri",
+          "oneway": "yes",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511085,
+          -73.550622
+        ],
+        "centroid_xy": [
+          467.201,
+          708.519
+        ],
+        "coords_xy": [
+          [
+            428.024,
+            713.858
+          ],
+          [
+            468.297,
+            703.528
+          ],
+          [
+            471.777,
+            703.784
+          ],
+          [
+            474.999,
+            706.433
+          ],
+          [
+            476.793,
+            708.471
+          ],
+          [
+            483.316,
+            715.038
+          ]
+        ]
+      },
+      {
+        "id": 397001638,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "paving_stones",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.510642,
+          -73.55038
+        ],
+        "centroid_xy": [
+          486.029,
+          659.197
+        ],
+        "coords_xy": [
+          [
+            473.353,
+            624.302
+          ],
+          [
+            473.283,
+            625.593
+          ],
+          [
+            474.078,
+            626.283
+          ],
+          [
+            496.985,
+            688.634
+          ],
+          [
+            498.834,
+            694.01
+          ],
+          [
+            499.645,
+            696.359
+          ]
+        ]
+      },
+      {
+        "id": 397001648,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "paved",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511309,
+          -73.551735
+        ],
+        "centroid_xy": [
+          380.316,
+          733.48
+        ],
+        "coords_xy": [
+          [
+            378.919,
+            729.644
+          ],
+          [
+            380.316,
+            733.562
+          ],
+          [
+            381.712,
+            737.236
+          ]
+        ]
+      },
+      {
+        "id": 397036700,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "paved",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511302,
+          -73.551821
+        ],
+        "centroid_xy": [
+          373.645,
+          732.761
+        ],
+        "coords_xy": [
+          [
+            368.481,
+            735.811
+          ],
+          [
+            373.536,
+            732.827
+          ],
+          [
+            378.919,
+            729.644
+          ]
+        ]
+      },
+      {
+        "id": 397037806,
+        "name": "",
+        "tags": {
+          "bridge": "yes",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "1",
+          "lit": "yes",
+          "surface": "concrete:plates",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511619,
+          -73.551561
+        ],
+        "centroid_xy": [
+          393.926,
+          767.949
+        ],
+        "coords_xy": [
+          [
+            381.712,
+            737.236
+          ],
+          [
+            406.14,
+            798.662
+          ]
+        ]
+      },
+      {
+        "id": 397038478,
+        "name": "",
+        "tags": {
+          "bridge": "yes",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "1",
+          "lit": "yes",
+          "surface": "concrete:plates",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.513213,
+          -73.550854
+        ],
+        "centroid_xy": [
+          449.082,
+          945.431
+        ],
+        "coords_xy": [
+          [
+            529.245,
+            1169.923
+          ],
+          [
+            522.418,
+            1150.387
+          ],
+          [
+            462.243,
+            978.075
+          ],
+          [
+            453.723,
+            954.097
+          ],
+          [
+            440.882,
+            917.529
+          ],
+          [
+            435.927,
+            902.345
+          ],
+          [
+            430.411,
+            887.161
+          ],
+          [
+            397.152,
+            807.512
+          ],
+          [
+            369.737,
+            741.855
+          ]
+        ]
+      },
+      {
+        "id": 397322661,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "paved",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.510597,
+          -73.552315
+        ],
+        "centroid_xy": [
+          335.07,
+          654.228
+        ],
+        "coords_xy": [
+          [
+            317.293,
+            611.634
+          ],
+          [
+            319.438,
+            615.241
+          ],
+          [
+            368.481,
+            735.811
+          ]
+        ]
+      },
+      {
+        "id": 399715955,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "paved",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511357,
+          -73.551879
+        ],
+        "centroid_xy": [
+          369.112,
+          738.853
+        ],
+        "coords_xy": [
+          [
+            369.737,
+            741.855
+          ],
+          [
+            369.12,
+            738.894
+          ],
+          [
+            368.481,
+            735.811
+          ]
+        ]
+      },
+      {
+        "id": 399715957,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "incline": "down",
+          "lit": "yes",
+          "surface": "concrete:plates",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511401,
+          -73.552123
+        ],
+        "centroid_xy": [
+          350.066,
+          743.759
+        ],
+        "coords_xy": [
+          [
+            368.481,
+            735.811
+          ],
+          [
+            366.866,
+            736.768
+          ],
+          [
+            314.851,
+            758.698
+          ]
+        ]
+      },
+      {
+        "id": 400837473,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "concrete:plates",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511498,
+          -73.552211
+        ],
+        "centroid_xy": [
+          343.234,
+          754.546
+        ],
+        "coords_xy": [
+          [
+            318.603,
+            764.743
+          ],
+          [
+            367.864,
+            744.349
+          ]
+        ]
+      },
+      {
+        "id": 403961014,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "incline": "down",
+          "lit": "yes",
+          "surface": "concrete:plates",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511024,
+          -73.550713
+        ],
+        "centroid_xy": [
+          460.084,
+          701.775
+        ],
+        "coords_xy": [
+          [
+            482.184,
+            704.307
+          ],
+          [
+            474.383,
+            697.361
+          ],
+          [
+            471.488,
+            696.849
+          ],
+          [
+            468.336,
+            697.405
+          ],
+          [
+            432.58,
+            707.224
+          ],
+          [
+            431.535,
+            707.502
+          ]
+        ]
+      },
+      {
+        "id": 403961016,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "incline": "down",
+          "lit": "yes",
+          "surface": "concrete:plates",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511172,
+          -73.551415
+        ],
+        "centroid_xy": [
+          405.33,
+          718.211
+        ],
+        "coords_xy": [
+          [
+            423.593,
+            710.486
+          ],
+          [
+            422.586,
+            710.419
+          ],
+          [
+            421.556,
+            711.365
+          ],
+          [
+            379.996,
+            729.143
+          ],
+          [
+            378.919,
+            729.644
+          ]
+        ]
+      },
+      {
+        "id": 403961018,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "paved",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.510529,
+          -73.552186
+        ],
+        "centroid_xy": [
+          345.14,
+          646.625
+        ],
+        "coords_xy": [
+          [
+            378.919,
+            729.644
+          ],
+          [
+            328.418,
+            605.778
+          ],
+          [
+            328.083,
+            604.454
+          ]
+        ]
+      },
+      {
+        "id": 423716976,
+        "name": "Rue Saint-Hubert",
+        "tags": {
+          "highway": "residential",
+          "lit": "yes",
+          "maxspeed": "30",
+          "name": "Rue Saint-Hubert",
+          "sidewalk": "both",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.512235,
+          -73.55049
+        ],
+        "centroid_xy": [
+          477.509,
+          836.544
+        ],
+        "coords_xy": [
+          [
+            431.379,
+            853.676
+          ],
+          [
+            437.854,
+            851.115
+          ],
+          [
+            447.302,
+            847.542
+          ],
+          [
+            452.756,
+            845.538
+          ],
+          [
+            544.864,
+            811.797
+          ],
+          [
+            550.895,
+            809.593
+          ]
+        ]
+      },
+      {
+        "id": 440434601,
+        "name": "Rue de la Commune Est",
+        "tags": {
+          "cycleway:both": "no",
+          "highway": "tertiary",
+          "lanes": "2",
+          "name": "Rue de la Commune Est",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511015,
+          -73.550061
+        ],
+        "centroid_xy": [
+          510.942,
+          700.801
+        ],
+        "coords_xy": [
+          [
+            512.175,
+            705.176
+          ],
+          [
+            509.709,
+            696.426
+          ]
+        ]
+      },
+      {
+        "id": 457894389,
+        "name": "Rue Berri",
+        "tags": {
+          "highway": "residential",
+          "incline": "down",
+          "lane_markings": "no",
+          "lit": "yes",
+          "name": "Rue Berri",
+          "oneway": "yes",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511258,
+          -73.551555
+        ],
+        "centroid_xy": [
+          394.372,
+          727.848
+        ],
+        "coords_xy": [
+          [
+            374.777,
+            736.122
+          ],
+          [
+            380.316,
+            733.562
+          ],
+          [
+            428.024,
+            713.858
+          ]
+        ]
+      },
+      {
+        "id": 457894390,
+        "name": "Rue Berri",
+        "tags": {
+          "cycleway:both": "separate",
+          "highway": "tertiary",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue Berri",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511877,
+          -73.553094
+        ],
+        "centroid_xy": [
+          274.338,
+          796.709
+        ],
+        "coords_xy": [
+          [
+            218.077,
+            821.482
+          ],
+          [
+            225.286,
+            818.577
+          ],
+          [
+            229.514,
+            817.118
+          ],
+          [
+            236.786,
+            814.792
+          ],
+          [
+            246.218,
+            811.141
+          ],
+          [
+            254.145,
+            807.667
+          ],
+          [
+            260.168,
+            804.239
+          ],
+          [
+            277.87,
+            793.018
+          ],
+          [
+            285.641,
+            789.355
+          ],
+          [
+            318.884,
+            775.095
+          ],
+          [
+            367.958,
+            754.813
+          ],
+          [
+            371.508,
+            753.21
+          ]
+        ]
+      },
+      {
+        "id": 464905850,
+        "name": "Rue Saint-Hubert",
+        "tags": {
+          "highway": "residential",
+          "lit": "yes",
+          "maxspeed": "30",
+          "name": "Rue Saint-Hubert",
+          "sidewalk": "left",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.512851,
+          -73.552672
+        ],
+        "centroid_xy": [
+          307.246,
+          905.159
+        ],
+        "coords_xy": [
+          [
+            259.996,
+            922.36
+          ],
+          [
+            269.748,
+            920.991
+          ],
+          [
+            272.526,
+            920.3
+          ],
+          [
+            274.71,
+            919.454
+          ],
+          [
+            282.629,
+            915.759
+          ],
+          [
+            359.735,
+            883.576
+          ],
+          [
+            431.379,
+            853.676
+          ]
+        ]
+      },
+      {
+        "id": 588291335,
+        "name": "Rue Berri",
+        "tags": {
+          "cycleway:both": "separate",
+          "highway": "tertiary",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue Berri",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511093,
+          -73.550202
+        ],
+        "centroid_xy": [
+          499.928,
+          709.409
+        ],
+        "coords_xy": [
+          [
+            483.316,
+            715.038
+          ],
+          [
+            504.295,
+            708.014
+          ],
+          [
+            512.175,
+            705.176
+          ]
+        ]
+      },
+      {
+        "id": 714752377,
+        "name": "Rue de la Friponne",
+        "tags": {
+          "highway": "service",
+          "lit": "yes",
+          "name": "Rue de la Friponne",
+          "oneway": "yes",
+          "service": "alley",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.510626,
+          -73.550564
+        ],
+        "centroid_xy": [
+          471.682,
+          657.48
+        ],
+        "coords_xy": [
+          [
+            490.564,
+            701.558
+          ],
+          [
+            488.66,
+            696.27
+          ],
+          [
+            461.151,
+            634.922
+          ],
+          [
+            459.356,
+            628.521
+          ],
+          [
+            458.678,
+            626.128
+          ]
+        ]
+      },
+      {
+        "id": 714752378,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "concrete:plates",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511035,
+          -73.550376
+        ],
+        "centroid_xy": [
+          486.374,
+          702.932
+        ],
+        "coords_xy": [
+          [
+            490.564,
+            701.558
+          ],
+          [
+            482.184,
+            704.307
+          ]
+        ]
+      },
+      {
+        "id": 714752379,
+        "name": "",
+        "tags": {
+          "crossing": "marked",
+          "crossing:markings": "surface",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "unhewn_cobblestone",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511064,
+          -73.550508
+        ],
+        "centroid_xy": [
+          476.034,
+          706.233
+        ],
+        "coords_xy": [
+          [
+            470.919,
+            707.959
+          ],
+          [
+            474.999,
+            706.433
+          ],
+          [
+            482.184,
+            704.307
+          ]
+        ]
+      },
+      {
+        "id": 714752380,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes"
+        },
+        "centroid_latlon": [
+          45.511089,
+          -73.551132
+        ],
+        "centroid_xy": [
+          427.413,
+          709.049
+        ],
+        "coords_xy": [
+          [
+            431.535,
+            707.502
+          ],
+          [
+            427.111,
+            709.161
+          ],
+          [
+            423.593,
+            710.486
+          ]
+        ]
+      },
+      {
+        "id": 714752381,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "concrete:plates",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.51118,
+          -73.551022
+        ],
+        "centroid_xy": [
+          435.974,
+          719.118
+        ],
+        "coords_xy": [
+          [
+            384.022,
+            737.87
+          ],
+          [
+            427.072,
+            719.836
+          ],
+          [
+            461.884,
+            710.808
+          ],
+          [
+            470.919,
+            707.959
+          ]
+        ]
+      },
+      {
+        "id": 714752382,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "-1",
+          "lit": "yes",
+          "surface": "paved",
+          "tunnel": "yes",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.511378,
+          -73.551791
+        ],
+        "centroid_xy": [
+          375.943,
+          741.11
+        ],
+        "coords_xy": [
+          [
+            367.864,
+            744.349
+          ],
+          [
+            384.022,
+            737.87
+          ]
+        ]
+      },
+      {
+        "id": 860511973,
+        "name": "",
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.510944,
+          -73.550089
+        ],
+        "centroid_xy": [
+          508.744,
+          692.853
+        ],
+        "coords_xy": [
+          [
+            517.222,
+            689.546
+          ],
+          [
+            508.328,
+            693.019
+          ],
+          [
+            500.683,
+            695.992
+          ]
+        ]
+      },
+      {
+        "id": 913624202,
+        "name": "Rue de la Commune Est",
+        "tags": {
+          "cycleway:left": "separate",
+          "cycleway:right": "no",
+          "highway": "tertiary",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue de la Commune Est",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.510736,
+          -73.550204
+        ],
+        "centroid_xy": [
+          499.806,
+          669.668
+        ],
+        "coords_xy": [
+          [
+            509.709,
+            696.426
+          ],
+          [
+            508.328,
+            693.019
+          ],
+          [
+            481.381,
+            619.56
+          ]
+        ]
+      },
+      {
+        "id": 965377048,
+        "name": "Rue Port-de-Montréal",
+        "tags": {
+          "bicycle": "no",
+          "canvec:CODE": "1760011",
+          "canvec:ROADCLASS": "Local/Street",
+          "canvec:STRUCTYPE": "None",
+          "canvec:UUID": "97b5291acddc478b89be928597ff45f0",
+          "highway": "unclassified",
+          "lanes": "2",
+          "name": "Rue Port-de-Montréal",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.512343,
+          -73.548745
+        ],
+        "centroid_xy": [
+          613.596,
+          848.601
+        ],
+        "coords_xy": [
+          [
+            509.467,
+            554.505
+          ],
+          [
+            513.166,
+            565.002
+          ],
+          [
+            569.846,
+            725.658
+          ],
+          [
+            591.699,
+            787.597
+          ],
+          [
+            627.813,
+            889.955
+          ],
+          [
+            629.764,
+            895.476
+          ],
+          [
+            640.585,
+            926.156
+          ],
+          [
+            646.881,
+            944.0
+          ],
+          [
+            659.965,
+            981.081
+          ],
+          [
+            746.776,
+            1216.577
+          ]
+        ]
+      },
+      {
+        "id": 976145438,
+        "name": "Rue Berri",
+        "tags": {
+          "foot": "no",
+          "highway": "cycleway",
+          "horse": "no",
+          "lit": "yes",
+          "name": "Rue Berri",
+          "ncn": "yes",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511766,
+          -73.552951
+        ],
+        "centroid_xy": [
+          285.457,
+          784.305
+        ],
+        "coords_xy": [
+          [
+            226.05,
+            809.771
+          ],
+          [
+            245.594,
+            803.782
+          ],
+          [
+            249.456,
+            802.513
+          ],
+          [
+            253.084,
+            801.189
+          ],
+          [
+            256.868,
+            799.107
+          ],
+          [
+            270.716,
+            790.435
+          ],
+          [
+            272.713,
+            789.433
+          ],
+          [
+            275.686,
+            788.02
+          ],
+          [
+            283.214,
+            785.181
+          ],
+          [
+            309.28,
+            773.904
+          ],
+          [
+            311.574,
+            772.502
+          ],
+          [
+            315.951,
+            769.763
+          ],
+          [
+            320.733,
+            766.746
+          ],
+          [
+            322.301,
+            766.001
+          ],
+          [
+            368.637,
+            746.23
+          ]
+        ]
+      },
+      {
+        "id": 983430896,
+        "name": "Piste multifonctionnelle",
+        "tags": {
+          "bicycle": "designated",
+          "foot": "designated",
+          "highway": "cycleway",
+          "horse": "no",
+          "lit": "yes",
+          "name": "Piste multifonctionnelle",
+          "name:en": "Multipurpose path",
+          "name:fr": "Piste multifonctionnelle",
+          "ncn": "yes",
+          "segregated": "no",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.510726,
+          -73.55
+        ],
+        "centroid_xy": [
+          515.721,
+          668.61
+        ],
+        "coords_xy": [
+          [
+            509.709,
+            696.426
+          ],
+          [
+            518.674,
+            693.008
+          ],
+          [
+            525.001,
+            690.76
+          ],
+          [
+            526.117,
+            690.014
+          ],
+          [
+            526.514,
+            688.723
+          ],
+          [
+            526.202,
+            687.186
+          ],
+          [
+            521.74,
+            674.429
+          ],
+          [
+            507.813,
+            635.022
+          ],
+          [
+            479.719,
+            561.919
+          ]
+        ]
+      },
+      {
+        "id": 1004725052,
+        "name": "Rue Saint-Paul Est",
+        "tags": {
+          "highway": "residential",
+          "lit": "yes",
+          "name": "Rue Saint-Paul Est",
+          "oneway": "yes",
+          "sidewalk:both": "separate",
+          "surface": "sett"
+        },
+        "centroid_latlon": [
+          45.510329,
+          -73.551303
+        ],
+        "centroid_xy": [
+          414.02,
+          624.35
+        ],
+        "coords_xy": [
+          [
+            428.024,
+            713.858
+          ],
+          [
+            427.111,
+            709.161
+          ],
+          [
+            417.055,
+            640.577
+          ],
+          [
+            416.641,
+            637.772
+          ],
+          [
+            416.111,
+            634.465
+          ],
+          [
+            407.365,
+            580.086
+          ],
+          [
+            406.171,
+            574.353
+          ],
+          [
+            404.899,
+            568.809
+          ],
+          [
+            402.801,
+            560.071
+          ]
+        ]
+      },
+      {
+        "id": 1116941967,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "concrete",
+          "width": "1"
+        },
+        "centroid_latlon": [
+          45.512761,
+          -73.549072
+        ],
+        "centroid_xy": [
+          588.08,
+          895.087
+        ],
+        "coords_xy": [
+          [
+            618.873,
+            992.436
+          ],
+          [
+            619.567,
+            990.91
+          ],
+          [
+            620.394,
+            986.769
+          ],
+          [
+            620.331,
+            985.968
+          ],
+          [
+            620.152,
+            983.697
+          ],
+          [
+            620.035,
+            982.272
+          ],
+          [
+            618.147,
+            976.35
+          ],
+          [
+            599.555,
+            926.523
+          ],
+          [
+            590.997,
+            900.53
+          ],
+          [
+            585.114,
+            885.224
+          ],
+          [
+            575.939,
+            858.841
+          ],
+          [
+            572.826,
+            849.323
+          ],
+          [
+            570.907,
+            844.18
+          ],
+          [
+            563.066,
+            823.185
+          ],
+          [
+            543.959,
+            770.387
+          ],
+          [
+            537.234,
+            752.52
+          ],
+          [
+            520.265,
+            707.357
+          ]
+        ]
+      },
+      {
+        "id": 1127943015,
+        "name": "Rue Notre-Dame Est",
+        "tags": {
+          "highway": "tertiary",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue Notre-Dame Est",
+          "oneway": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511348,
+          -73.551798
+        ],
+        "centroid_xy": [
+          375.389,
+          737.781
+        ],
+        "coords_xy": [
+          [
+            374.777,
+            736.122
+          ],
+          [
+            376.001,
+            739.44
+          ]
+        ]
+      },
+      {
+        "id": 1163646101,
+        "name": "Rue Berri",
+        "tags": {
+          "foot": "no",
+          "highway": "cycleway",
+          "horse": "no",
+          "lit": "yes",
+          "name": "Rue Berri",
+          "ncn": "yes",
+          "surface": "asphalt",
+          "width": "1.5"
+        },
+        "centroid_latlon": [
+          45.511106,
+          -73.550608
+        ],
+        "centroid_xy": [
+          468.26,
+          710.838
+        ],
+        "coords_xy": [
+          [
+            384.701,
+            739.562
+          ],
+          [
+            426.721,
+            722.486
+          ],
+          [
+            458.147,
+            714.048
+          ],
+          [
+            476.793,
+            708.471
+          ],
+          [
+            490.501,
+            704.051
+          ],
+          [
+            498.599,
+            701.357
+          ],
+          [
+            500.909,
+            700.3
+          ],
+          [
+            509.709,
+            696.426
+          ]
+        ]
+      },
+      {
+        "id": 1163646102,
+        "name": "Rue Berri",
+        "tags": {
+          "foot": "no",
+          "highway": "cycleway",
+          "horse": "no",
+          "layer": "-1",
+          "lit": "yes",
+          "name": "Rue Berri",
+          "ncn": "yes",
+          "surface": "asphalt",
+          "tunnel": "yes"
+        },
+        "centroid_latlon": [
+          45.511394,
+          -73.551782
+        ],
+        "centroid_xy": [
+          376.669,
+          742.896
+        ],
+        "coords_xy": [
+          [
+            368.637,
+            746.23
+          ],
+          [
+            384.701,
+            739.562
+          ]
+        ]
+      },
+      {
+        "id": 1163646103,
+        "name": "Rue Berri",
+        "tags": {
+          "cycleway:both": "separate",
+          "highway": "tertiary",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue Berri",
+          "sidewalk": "both",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511276,
+          -73.551019
+        ],
+        "centroid_xy": [
+          436.224,
+          729.808
+        ],
+        "coords_xy": [
+          [
+            387.595,
+            746.742
+          ],
+          [
+            404.299,
+            739.696
+          ],
+          [
+            419.676,
+            734.119
+          ],
+          [
+            430.833,
+            730.601
+          ],
+          [
+            436.887,
+            728.898
+          ],
+          [
+            458.693,
+            723.042
+          ],
+          [
+            468.492,
+            720.326
+          ],
+          [
+            483.316,
+            715.038
+          ]
+        ]
+      },
+      {
+        "id": 1163646104,
+        "name": "Rue Berri",
+        "tags": {
+          "cycleway:both": "separate",
+          "highway": "tertiary",
+          "lanes": "2",
+          "layer": "-1",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue Berri",
+          "sidewalk": "both",
+          "surface": "asphalt",
+          "tunnel": "yes"
+        },
+        "centroid_latlon": [
+          45.511457,
+          -73.551745
+        ],
+        "centroid_xy": [
+          379.551,
+          749.976
+        ],
+        "coords_xy": [
+          [
+            371.508,
+            753.21
+          ],
+          [
+            387.595,
+            746.742
+          ]
+        ]
+      },
+      {
+        "id": 1180299375,
+        "name": "",
+        "tags": {
+          "crossing:markings": "zebra",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511068,
+          -73.54993
+        ],
+        "centroid_xy": [
+          521.186,
+          706.626
+        ],
+        "coords_xy": [
+          [
+            518.752,
+            707.925
+          ],
+          [
+            520.265,
+            707.357
+          ],
+          [
+            523.121,
+            706.267
+          ],
+          [
+            522.606,
+            704.953
+          ]
+        ]
+      },
+      {
+        "id": 1180299376,
+        "name": "",
+        "tags": {
+          "highway": "footway",
+          "surface": "paved"
+        },
+        "centroid_latlon": [
+          45.512291,
+          -73.54919
+        ],
+        "centroid_xy": [
+          578.87,
+          842.819
+        ],
+        "coords_xy": [
+          [
+            572.826,
+            849.323
+          ],
+          [
+            575.775,
+            848.21
+          ],
+          [
+            578.99,
+            840.228
+          ],
+          [
+            574.94,
+            833.594
+          ],
+          [
+            582.578,
+            830.777
+          ],
+          [
+            586.425,
+            840.952
+          ],
+          [
+            580.558,
+            856.648
+          ]
+        ]
+      },
+      {
+        "id": 1180299378,
+        "name": "",
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511051,
+          -73.550165
+        ],
+        "centroid_xy": [
+          502.814,
+          704.744
+        ],
+        "coords_xy": [
+          [
+            499.957,
+            698.385
+          ],
+          [
+            500.909,
+            700.3
+          ],
+          [
+            504.295,
+            708.014
+          ],
+          [
+            506.097,
+            712.278
+          ]
+        ]
+      },
+      {
+        "id": 1180299379,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "paving_stones",
+          "wheelchair": "yes"
+        },
+        "centroid_latlon": [
+          45.510997,
+          -73.550242
+        ],
+        "centroid_xy": [
+          496.823,
+          698.761
+        ],
+        "coords_xy": [
+          [
+            499.645,
+            696.359
+          ],
+          [
+            499.13,
+            698.007
+          ],
+          [
+            497.952,
+            699.12
+          ],
+          [
+            490.564,
+            701.558
+          ]
+        ]
+      },
+      {
+        "id": 1180299380,
+        "name": "",
+        "tags": {
+          "crossing:markings": "zebra",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.510974,
+          -73.550199
+        ],
+        "centroid_xy": [
+          500.164,
+          696.175
+        ],
+        "coords_xy": [
+          [
+            500.683,
+            695.992
+          ],
+          [
+            499.645,
+            696.359
+          ]
+        ]
+      },
+      {
+        "id": 1180299381,
+        "name": "",
+        "tags": {
+          "crossing:markings": "zebra",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.510992,
+          -73.550207
+        ],
+        "centroid_xy": [
+          499.544,
+          698.196
+        ],
+        "coords_xy": [
+          [
+            499.13,
+            698.007
+          ],
+          [
+            499.957,
+            698.385
+          ]
+        ]
+      },
+      {
+        "id": 1224639108,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510344,
+          -73.550278
+        ],
+        "centroid_xy": [
+          494.028,
+          626.085
+        ],
+        "coords_xy": [
+          [
+            471.948,
+            564.078
+          ],
+          [
+            472.065,
+            566.65
+          ],
+          [
+            495.666,
+            630.97
+          ],
+          [
+            513.236,
+            679.182
+          ],
+          [
+            517.222,
+            689.546
+          ]
+        ]
+      },
+      {
+        "id": 1224639109,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510819,
+          -73.551129
+        ],
+        "centroid_xy": [
+          427.603,
+          678.909
+        ],
+        "coords_xy": [
+          [
+            432.58,
+            707.224
+          ],
+          [
+            431.995,
+            705.454
+          ],
+          [
+            431.41,
+            702.615
+          ],
+          [
+            420.963,
+            639.987
+          ],
+          [
+            421.065,
+            639.263
+          ]
+        ]
+      },
+      {
+        "id": 1224639110,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510439,
+          -73.551219
+        ],
+        "centroid_xy": [
+          420.633,
+          636.588
+        ],
+        "coords_xy": [
+          [
+            421.065,
+            639.263
+          ],
+          [
+            420.628,
+            636.67
+          ],
+          [
+            420.207,
+            633.831
+          ]
+        ]
+      },
+      {
+        "id": 1224639111,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510428,
+          -73.551046
+        ],
+        "centroid_xy": [
+          434.088,
+          635.442
+        ],
+        "coords_xy": [
+          [
+            421.065,
+            639.263
+          ],
+          [
+            421.915,
+            638.651
+          ],
+          [
+            438.057,
+            634.276
+          ],
+          [
+            455.315,
+            629.579
+          ]
+        ]
+      },
+      {
+        "id": 1224639112,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510366,
+          -73.550724
+        ],
+        "centroid_xy": [
+          459.2,
+          628.562
+        ],
+        "coords_xy": [
+          [
+            455.315,
+            629.579
+          ],
+          [
+            459.356,
+            628.521
+          ],
+          [
+            462.93,
+            627.586
+          ]
+        ]
+      },
+      {
+        "id": 1224639113,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.51035,
+          -73.550611
+        ],
+        "centroid_xy": [
+          468.01,
+          626.743
+        ],
+        "coords_xy": [
+          [
+            462.93,
+            627.586
+          ],
+          [
+            463.749,
+            628.12
+          ],
+          [
+            472.081,
+            625.671
+          ],
+          [
+            473.283,
+            625.593
+          ]
+        ]
+      },
+      {
+        "id": 1224639114,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510361,
+          -73.550937
+        ],
+        "centroid_xy": [
+          442.584,
+          627.901
+        ],
+        "coords_xy": [
+          [
+            471.831,
+            619.092
+          ],
+          [
+            471.082,
+            620.105
+          ],
+          [
+            450.142,
+            626.027
+          ],
+          [
+            421.4,
+            634.154
+          ],
+          [
+            420.839,
+            634.198
+          ],
+          [
+            420.207,
+            633.831
+          ]
+        ]
+      },
+      {
+        "id": 1224639115,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.510249,
+          -73.551263
+        ],
+        "centroid_xy": [
+          417.138,
+          615.474
+        ],
+        "coords_xy": [
+          [
+            420.207,
+            633.831
+          ],
+          [
+            419.895,
+            633.308
+          ],
+          [
+            411.313,
+            579.284
+          ]
+        ]
+      },
+      {
+        "id": 1224639116,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510439,
+          -73.551339
+        ],
+        "centroid_xy": [
+          411.249,
+          636.677
+        ],
+        "coords_xy": [
+          [
+            402.231,
+            582.168
+          ],
+          [
+            402.918,
+            582.78
+          ],
+          [
+            403.23,
+            583.915
+          ],
+          [
+            411.125,
+            635.323
+          ],
+          [
+            412.147,
+            641.991
+          ],
+          [
+            412.74,
+            647.69
+          ],
+          [
+            423.015,
+            709.127
+          ],
+          [
+            422.586,
+            710.419
+          ]
+        ]
+      },
+      {
+        "id": 1224639117,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510486,
+          -73.55132
+        ],
+        "centroid_xy": [
+          412.694,
+          641.907
+        ],
+        "coords_xy": [
+          [
+            412.147,
+            641.991
+          ],
+          [
+            413.24,
+            641.824
+          ]
+        ]
+      },
+      {
+        "id": 1224639118,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510426,
+          -73.551332
+        ],
+        "centroid_xy": [
+          411.757,
+          635.183
+        ],
+        "coords_xy": [
+          [
+            411.125,
+            635.323
+          ],
+          [
+            412.389,
+            635.044
+          ]
+        ]
+      },
+      {
+        "id": 1224639119,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510419,
+          -73.551275
+        ],
+        "centroid_xy": [
+          416.236,
+          634.447
+        ],
+        "coords_xy": [
+          [
+            412.389,
+            635.044
+          ],
+          [
+            416.111,
+            634.465
+          ],
+          [
+            420.207,
+            633.831
+          ]
+        ]
+      },
+      {
+        "id": 1224639120,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.510474,
+          -73.551264
+        ],
+        "centroid_xy": [
+          417.12,
+          640.555
+        ],
+        "coords_xy": [
+          [
+            413.24,
+            641.824
+          ],
+          [
+            417.055,
+            640.577
+          ],
+          [
+            421.065,
+            639.263
+          ]
+        ]
+      },
+      {
+        "id": 1229518145,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.511269,
+          -73.550786
+        ],
+        "centroid_xy": [
+          454.364,
+          729.03
+        ],
+        "coords_xy": [
+          [
+            389.194,
+            750.728
+          ],
+          [
+            408.254,
+            743.08
+          ],
+          [
+            420.948,
+            738.761
+          ],
+          [
+            431.371,
+            735.588
+          ],
+          [
+            470.255,
+            724.634
+          ],
+          [
+            503.351,
+            713.391
+          ],
+          [
+            505.442,
+            713.781
+          ],
+          [
+            506.097,
+            712.278
+          ]
+        ]
+      },
+      {
+        "id": 1229518146,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.511696,
+          -73.549808
+        ],
+        "centroid_xy": [
+          530.662,
+          776.589
+        ],
+        "coords_xy": [
+          [
+            505.442,
+            713.781
+          ],
+          [
+            507.213,
+            715.016
+          ],
+          [
+            537.094,
+            791.793
+          ],
+          [
+            540.878,
+            802.513
+          ],
+          [
+            540.854,
+            803.537
+          ],
+          [
+            540.628,
+            804.217
+          ],
+          [
+            542.524,
+            805.263
+          ]
+        ]
+      },
+      {
+        "id": 1229518147,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512013,
+          -73.549626
+        ],
+        "centroid_xy": [
+          544.875,
+          811.823
+        ],
+        "coords_xy": [
+          [
+            542.524,
+            805.263
+          ],
+          [
+            544.864,
+            811.797
+          ],
+          [
+            547.236,
+            818.41
+          ]
+        ]
+      },
+      {
+        "id": 1229518148,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512151,
+          -73.550425
+        ],
+        "centroid_xy": [
+          482.523,
+          827.208
+        ],
+        "coords_xy": [
+          [
+            540.628,
+            804.217
+          ],
+          [
+            539.871,
+            805.085
+          ],
+          [
+            500.121,
+            820.491
+          ],
+          [
+            452.358,
+            838.993
+          ],
+          [
+            433.197,
+            846.407
+          ],
+          [
+            428.96,
+            848.054
+          ]
+        ]
+      },
+      {
+        "id": 1229518149,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512392,
+          -73.551079
+        ],
+        "centroid_xy": [
+          431.499,
+          854.084
+        ],
+        "coords_xy": [
+          [
+            428.96,
+            848.054
+          ],
+          [
+            431.379,
+            853.676
+          ],
+          [
+            434.156,
+            860.522
+          ]
+        ]
+      },
+      {
+        "id": 1229518150,
+        "name": "",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512428,
+          -73.550962
+        ],
+        "centroid_xy": [
+          440.655,
+          858.017
+        ],
+        "coords_xy": [
+          [
+            447.24,
+            855.479
+          ],
+          [
+            440.569,
+            858.051
+          ],
+          [
+            434.156,
+            860.522
+          ]
+        ]
+      },
+      {
+        "id": 1229518151,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512235,
+          -73.550188
+        ],
+        "centroid_xy": [
+          501.035,
+          836.531
+        ],
+        "coords_xy": [
+          [
+            447.24,
+            855.479
+          ],
+          [
+            448.738,
+            856.27
+          ],
+          [
+            449.986,
+            854.834
+          ],
+          [
+            523.105,
+            828.874
+          ],
+          [
+            544.295,
+            820.825
+          ],
+          [
+            546.643,
+            821.026
+          ],
+          [
+            547.236,
+            818.41
+          ]
+        ]
+      },
+      {
+        "id": 1229518152,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512488,
+          -73.54939
+        ],
+        "centroid_xy": [
+          563.268,
+          864.702
+        ],
+        "coords_xy": [
+          [
+            546.643,
+            821.026
+          ],
+          [
+            548.477,
+            822.195
+          ],
+          [
+            563.323,
+            863.461
+          ],
+          [
+            573.325,
+            892.493
+          ],
+          [
+            573.006,
+            893.996
+          ],
+          [
+            574.831,
+            895.042
+          ]
+        ]
+      },
+      {
+        "id": 1229518154,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512988,
+          -73.549858
+        ],
+        "centroid_xy": [
+          526.789,
+          920.416
+        ],
+        "coords_xy": [
+          [
+            573.006,
+            893.996
+          ],
+          [
+            571.952,
+            895.565
+          ],
+          [
+            524.018,
+            922.182
+          ],
+          [
+            483.792,
+            945.002
+          ],
+          [
+            481.178,
+            945.336
+          ]
+        ]
+      },
+      {
+        "id": 1229518156,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512812,
+          -73.550657
+        ],
+        "centroid_xy": [
+          464.453,
+          900.8
+        ],
+        "coords_xy": [
+          [
+            481.178,
+            945.336
+          ],
+          [
+            479.805,
+            943.299
+          ],
+          [
+            448.09,
+            858.296
+          ],
+          [
+            448.738,
+            856.27
+          ]
+        ]
+      },
+      {
+        "id": 1229518159,
+        "name": "",
+        "tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "centroid_latlon": [
+          45.51184,
+          -73.55262
+        ],
+        "centroid_xy": [
+          311.305,
+          792.573
+        ],
+        "coords_xy": [
+          [
+            271.621,
+            808.057
+          ],
+          [
+            278.284,
+            806.666
+          ],
+          [
+            283.277,
+            806.666
+          ],
+          [
+            325.914,
+            788.721
+          ],
+          [
+            328.964,
+            783.923
+          ],
+          [
+            344.63,
+            777.366
+          ],
+          [
+            346.448,
+            776.609
+          ]
+        ]
+      },
+      {
+        "id": 1229518160,
+        "name": "",
+        "tags": {
+          "highway": "service",
+          "service": "driveway"
+        },
+        "centroid_latlon": [
+          45.511647,
+          -73.552005
+        ],
+        "centroid_xy": [
+          359.29,
+          771.121
+        ],
+        "coords_xy": [
+          [
+            346.448,
+            776.609
+          ],
+          [
+            372.132,
+            765.633
+          ]
+        ]
+      },
+      {
+        "id": 1229518161,
+        "name": "",
+        "tags": {
+          "highway": "service",
+          "service": "driveway"
+        },
+        "centroid_latlon": [
+          45.511546,
+          -73.551869
+        ],
+        "centroid_xy": [
+          369.906,
+          759.819
+        ],
+        "coords_xy": [
+          [
+            367.958,
+            754.813
+          ],
+          [
+            369.627,
+            759.01
+          ],
+          [
+            372.132,
+            765.633
+          ]
+        ]
+      },
+      {
+        "id": 1247702716,
+        "name": "",
+        "tags": {
+          "highway": "service",
+          "service": "driveway"
+        },
+        "centroid_latlon": [
+          45.511995,
+          -73.55025
+        ],
+        "centroid_xy": [
+          496.197,
+          809.883
+        ],
+        "coords_xy": [
+          [
+            500.121,
+            820.491
+          ],
+          [
+            492.272,
+            799.274
+          ]
+        ]
+      },
+      {
+        "id": 1253676073,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512755,
+          -73.552583
+        ],
+        "centroid_xy": [
+          314.199,
+          894.438
+        ],
+        "coords_xy": [
+          [
+            266.277,
+            913.71
+          ],
+          [
+            269.951,
+            913.443
+          ],
+          [
+            274.921,
+            911.684
+          ],
+          [
+            297.773,
+            901.654
+          ],
+          [
+            320.866,
+            891.524
+          ],
+          [
+            359.438,
+            875.238
+          ],
+          [
+            410.166,
+            853.809
+          ]
+        ]
+      },
+      {
+        "id": 1253676074,
+        "name": "",
+        "tags": {
+          "bicycle": "no",
+          "highway": "footway",
+          "horse": "no",
+          "surface": "paving_stones"
+        },
+        "centroid_latlon": [
+          45.512366,
+          -73.552604
+        ],
+        "centroid_xy": [
+          312.516,
+          851.11
+        ],
+        "coords_xy": [
+          [
+            297.773,
+            901.654
+          ],
+          [
+            283.838,
+            868.57
+          ],
+          [
+            281.24,
+            858.084
+          ],
+          [
+            283.355,
+            853.186
+          ],
+          [
+            314.796,
+            838.38
+          ],
+          [
+            328.192,
+            838.102
+          ],
+          [
+            346.885,
+            829.33
+          ],
+          [
+            364.049,
+            821.571
+          ]
+        ]
+      },
+      {
+        "id": 1253676075,
+        "name": "",
+        "tags": {
+          "bicycle": "no",
+          "highway": "footway",
+          "horse": "no",
+          "surface": "paving_stones"
+        },
+        "centroid_latlon": [
+          45.511902,
+          -73.552068
+        ],
+        "centroid_xy": [
+          354.34,
+          799.469
+        ],
+        "coords_xy": [
+          [
+            344.63,
+            777.366
+          ],
+          [
+            364.049,
+            821.571
+          ]
+        ]
+      },
+      {
+        "id": 1268191777,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.511794,
+          -73.552697
+        ],
+        "centroid_xy": [
+          305.288,
+          787.51
+        ],
+        "coords_xy": [
+          [
+            259.208,
+            809.972
+          ],
+          [
+            263.983,
+            806.766
+          ],
+          [
+            272.417,
+            801.534
+          ],
+          [
+            277.129,
+            799.051
+          ],
+          [
+            283.472,
+            796.235
+          ],
+          [
+            343.249,
+            770.142
+          ],
+          [
+            369.627,
+            759.01
+          ],
+          [
+            373.216,
+            757.373
+          ]
+        ]
+      },
+      {
+        "id": 1268191778,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "-1",
+          "tunnel": "yes"
+        },
+        "centroid_latlon": [
+          45.511494,
+          -73.551724
+        ],
+        "centroid_xy": [
+          381.205,
+          754.05
+        ],
+        "coords_xy": [
+          [
+            373.216,
+            757.373
+          ],
+          [
+            389.194,
+            750.728
+          ]
+        ]
+      },
+      {
+        "id": 1272033964,
+        "name": "",
+        "tags": {
+          "access": "yes",
+          "highway": "steps",
+          "incline": "up",
+          "layer": "-1",
+          "surface": "paving_stones"
+        },
+        "centroid_latlon": [
+          45.512074,
+          -73.551857
+        ],
+        "centroid_xy": [
+          370.825,
+          818.688
+        ],
+        "coords_xy": [
+          [
+            364.049,
+            821.571
+          ],
+          [
+            377.601,
+            815.805
+          ]
+        ]
+      },
+      {
+        "id": 1272033965,
+        "name": "",
+        "tags": {
+          "bicycle": "no",
+          "highway": "footway",
+          "horse": "no",
+          "layer": "-1",
+          "surface": "paving_stones"
+        },
+        "centroid_latlon": [
+          45.512011,
+          -73.551645
+        ],
+        "centroid_xy": [
+          387.377,
+          811.658
+        ],
+        "coords_xy": [
+          [
+            377.601,
+            815.805
+          ],
+          [
+            397.152,
+            807.512
+          ]
+        ]
+      },
+      {
+        "id": 1272118686,
+        "name": "",
+        "tags": {
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512013,
+          -73.551241
+        ],
+        "centroid_xy": [
+          418.915,
+          811.892
+        ],
+        "coords_xy": [
+          [
+            421.931,
+            819.556
+          ],
+          [
+            415.9,
+            804.228
+          ]
+        ]
+      },
+      {
+        "id": 1272118688,
+        "name": "",
+        "tags": {
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512269,
+          -73.551089
+        ],
+        "centroid_xy": [
+          430.7,
+          840.34
+        ],
+        "coords_xy": [
+          [
+            428.204,
+            834.273
+          ],
+          [
+            433.197,
+            846.407
+          ]
+        ]
+      },
+      {
+        "id": 1272118689,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.512884,
+          -73.55249
+        ],
+        "centroid_xy": [
+          321.406,
+          908.775
+        ],
+        "coords_xy": [
+          [
+            273.758,
+            929.15
+          ],
+          [
+            275.178,
+            927.414
+          ],
+          [
+            277.113,
+            926.089
+          ],
+          [
+            281.201,
+            923.596
+          ],
+          [
+            354.429,
+            893.228
+          ],
+          [
+            355.756,
+            892.793
+          ],
+          [
+            356.801,
+            892.849
+          ],
+          [
+            357.8,
+            893.395
+          ],
+          [
+            360.616,
+            900.463
+          ]
+        ]
+      },
+      {
+        "id": 1272118705,
+        "name": "",
+        "tags": {
+          "footway": "sidewalk",
+          "highway": "footway"
+        },
+        "centroid_latlon": [
+          45.51345,
+          -73.551699
+        ],
+        "centroid_xy": [
+          383.115,
+          971.829
+        ],
+        "coords_xy": [
+          [
+            328.761,
+            1030.607
+          ],
+          [
+            329.924,
+            1030.763
+          ],
+          [
+            330.766,
+            1030.763
+          ],
+          [
+            332.444,
+            1030.284
+          ],
+          [
+            341.986,
+            1025.152
+          ],
+          [
+            445.578,
+            967.444
+          ],
+          [
+            446.678,
+            966.22
+          ],
+          [
+            447.061,
+            963.726
+          ],
+          [
+            446.936,
+            961.422
+          ],
+          [
+            433.665,
+            924.33
+          ],
+          [
+            432.261,
+            922.404
+          ],
+          [
+            430.794,
+            921.269
+          ],
+          [
+            429.499,
+            920.935
+          ],
+          [
+            427.26,
+            921.069
+          ],
+          [
+            424.888,
+            922.315
+          ],
+          [
+            334.691,
+            969.136
+          ],
+          [
+            306.355,
+            983.986
+          ],
+          [
+            305.145,
+            985.289
+          ],
+          [
+            304.498,
+            987.627
+          ]
+        ]
+      },
+      {
+        "id": 1338861879,
+        "name": "",
+        "tags": {
+          "bicycle": "no",
+          "highway": "footway",
+          "horse": "no",
+          "surface": "paving_stones"
+        },
+        "centroid_latlon": [
+          45.512441,
+          -73.552082
+        ],
+        "centroid_xy": [
+          353.232,
+          859.537
+        ],
+        "coords_xy": [
+          [
+            359.438,
+            875.238
+          ],
+          [
+            347.025,
+            843.835
+          ]
+        ]
+      },
+      {
+        "id": 1372511288,
+        "name": "",
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:markings": "surface",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.510946,
+          -73.549963
+        ],
+        "centroid_xy": [
+          518.551,
+          693.031
+        ],
+        "coords_xy": [
+          [
+            519.758,
+            696.537
+          ],
+          [
+            518.674,
+            693.008
+          ],
+          [
+            517.222,
+            689.546
+          ]
+        ]
+      },
+      {
+        "id": 1372511289,
+        "name": "",
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511098,
+          -73.550038
+        ],
+        "centroid_xy": [
+          512.703,
+          710.029
+        ],
+        "coords_xy": [
+          [
+            506.097,
+            712.278
+          ],
+          [
+            513.259,
+            709.884
+          ],
+          [
+            518.752,
+            707.925
+          ]
+        ]
+      },
+      {
+        "id": 1372511290,
+        "name": "",
+        "tags": {
+          "crossing": "uncontrolled",
+          "crossing:markings": "lines",
+          "crossing:signals": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "lit": "yes",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511018,
+          -73.549929
+        ],
+        "centroid_xy": [
+          521.256,
+          701.12
+        ],
+        "coords_xy": [
+          [
+            522.606,
+            704.953
+          ],
+          [
+            521.404,
+            701.869
+          ],
+          [
+            519.758,
+            696.537
+          ]
+        ]
+      },
+      {
+        "id": 1391271022,
+        "name": "",
+        "tags": {
+          "highway": "service",
+          "service": "parking_aisle"
+        },
+        "centroid_latlon": [
+          45.512802,
+          -73.551707
+        ],
+        "centroid_xy": [
+          382.547,
+          899.732
+        ],
+        "coords_xy": [
+          [
+            359.735,
+            883.576
+          ],
+          [
+            367.755,
+            902.935
+          ],
+          [
+            374.628,
+            919.989
+          ],
+          [
+            416.189,
+            902.99
+          ],
+          [
+            409.222,
+            885.97
+          ],
+          [
+            367.755,
+            902.935
+          ]
+        ]
+      },
+      {
+        "id": 1423259205,
+        "name": "Rue de la Commune Est",
+        "tags": {
+          "highway": "residential",
+          "lanes": "2",
+          "lit": "yes",
+          "name": "Rue de la Commune Est",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.511747,
+          -73.549677
+        ],
+        "centroid_xy": [
+          540.895,
+          782.253
+        ],
+        "coords_xy": [
+          [
+            583.741,
+            896.868
+          ],
+          [
+            550.895,
+            809.593
+          ],
+          [
+            544.404,
+            789.745
+          ],
+          [
+            513.259,
+            709.884
+          ],
+          [
+            512.175,
+            705.176
+          ]
+        ]
+      },
+      {
+        "id": 1516684393,
+        "name": "",
+        "tags": {
+          "highway": "service",
+          "service": "driveway"
+        },
+        "centroid_latlon": [
+          45.510155,
+          -73.55199
+        ],
+        "centroid_xy": [
+          360.455,
+          605.051
+        ],
+        "coords_xy": [
+          [
+            354.882,
+            590.416
+          ],
+          [
+            356.723,
+            595.248
+          ],
+          [
+            369.76,
+            629.489
+          ]
+        ]
+      },
+      {
+        "id": 1544915151,
+        "name": "",
+        "tags": {
+          "bicycle": "no",
+          "highway": "footway",
+          "horse": "no",
+          "surface": "paving_stones"
+        },
+        "centroid_latlon": [
+          45.51224,
+          -73.552243
+        ],
+        "centroid_xy": [
+          340.701,
+          837.089
+        ],
+        "coords_xy": [
+          [
+            328.192,
+            838.102
+          ],
+          [
+            347.025,
+            843.835
+          ],
+          [
+            346.885,
+            829.33
+          ]
+        ]
+      }
+    ],
+    "parks_squares": [
+      {
+        "id": 124134659,
+        "name": "Square Dalhousie",
+        "tags": {
+          "leisure": "park",
+          "name": "Square Dalhousie",
+          "operator": "Ville de Montréal",
+          "operator:type": "government",
+          "operator:wikidata": "Q340",
+          "website": "https://montreal.ca/lieux/square-dalhousie"
+        },
+        "centroid_latlon": [
+          45.511929,
+          -73.551133
+        ],
+        "centroid_xy": [
+          427.276,
+          802.453
+        ],
+        "coords_xy": [
+          [
+            452.311,
+            836.232
+          ],
+          [
+            448.012,
+            809.148
+          ],
+          [
+            435.748,
+            735.955
+          ],
+          [
+            422.742,
+            739.662
+          ],
+          [
+            407.568,
+            744.839
+          ],
+          [
+            429.194,
+            796.124
+          ],
+          [
+            411.554,
+            803.571
+          ],
+          [
+            409.869,
+            804.183
+          ],
+          [
+            416.852,
+            820.825
+          ],
+          [
+            417.398,
+            822.128
+          ],
+          [
+            423.273,
+            836.076
+          ],
+          [
+            427.759,
+            846.919
+          ],
+          [
+            452.311,
+            836.232
+          ]
+        ]
+      },
+      {
+        "id": 341112726,
+        "name": "Fleury-Mesplet",
+        "tags": {
+          "leisure": "park",
+          "name": "Fleury-Mesplet",
+          "website": "https://montreal.ca/lieux/parc-fleury-mesplet"
+        },
+        "centroid_latlon": [
+          45.510598,
+          -73.550494
+        ],
+        "centroid_xy": [
+          477.171,
+          654.33
+        ],
+        "coords_xy": [
+          [
+            474.648,
+            629.701
+          ],
+          [
+            464.708,
+            632.551
+          ],
+          [
+            463.991,
+            633.096
+          ],
+          [
+            463.702,
+            634.276
+          ],
+          [
+            463.827,
+            635.434
+          ],
+          [
+            492.264,
+            699.921
+          ],
+          [
+            498.077,
+            697.984
+          ],
+          [
+            498.678,
+            696.303
+          ],
+          [
+            474.648,
+            629.701
+          ]
+        ]
+      },
+      {
+        "id": 699619767,
+        "name": "Parc Espace Faubourg Québec",
+        "tags": {
+          "addr:city": "Montréal",
+          "addr:housenumber": "12",
+          "addr:postcode": "H2L 0G2",
+          "addr:province": "Québec",
+          "addr:street": "Rue de la Porte-de-Québec",
+          "leisure": "park",
+          "name": "Parc Espace Faubourg Québec",
+          "operator": "Ville de Montréal",
+          "operator:type": "government",
+          "operator:wikidata": "Q340",
+          "website": "https://montreal.ca/lieux/espace-faubourg-quebec"
+        },
+        "centroid_latlon": [
+          45.513034,
+          -73.550844
+        ],
+        "centroid_xy": [
+          449.872,
+          925.521
+        ],
+        "coords_xy": [
+          [
+            431.621,
+            899.495
+          ],
+          [
+            448.067,
+            891.469
+          ],
+          [
+            468.796,
+            951.047
+          ],
+          [
+            465.801,
+            952.594
+          ],
+          [
+            453.325,
+            959.029
+          ],
+          [
+            431.621,
+            899.495
+          ]
+        ]
+      },
+      {
+        "id": 1544933608,
+        "name": "",
+        "tags": {
+          "leisure": "park"
+        },
+        "centroid_latlon": [
+          45.512176,
+          -73.551273
+        ],
+        "centroid_xy": [
+          416.357,
+          830.002
+        ],
+        "coords_xy": [
+          [
+            427.759,
+            846.919
+          ],
+          [
+            423.273,
+            836.076
+          ],
+          [
+            417.398,
+            822.128
+          ],
+          [
+            416.852,
+            820.825
+          ],
+          [
+            409.869,
+            804.183
+          ],
+          [
+            394.983,
+            809.86
+          ],
+          [
+            412.967,
+            853.108
+          ],
+          [
+            427.759,
+            846.919
+          ]
+        ]
+      }
+    ],
+    "monuments": [],
+    "trees": [
+      {
+        "id": 12034320188,
+        "lat": 45.5130445,
+        "lon": -73.5504807,
+        "x": 478.198,
+        "y": 926.679
+      },
+      {
+        "id": 12034320189,
+        "lat": 45.5129847,
+        "lon": -73.5505088,
+        "x": 476.005,
+        "y": 920.022
+      },
+      {
+        "id": 12034320190,
+        "lat": 45.5129206,
+        "lon": -73.550544,
+        "x": 473.259,
+        "y": 912.887
+      },
+      {
+        "id": 12034320191,
+        "lat": 45.5128506,
+        "lon": -73.55058,
+        "x": 470.45,
+        "y": 905.094
+      },
+      {
+        "id": 12034320192,
+        "lat": 45.512799,
+        "lon": -73.5506019,
+        "x": 468.742,
+        "y": 899.35
+      },
+      {
+        "id": 12034320193,
+        "lat": 45.5127246,
+        "lon": -73.5506358,
+        "x": 466.097,
+        "y": 891.068
+      },
+      {
+        "id": 12034320194,
+        "lat": 45.5126153,
+        "lon": -73.5506955,
+        "x": 461.439,
+        "y": 878.901
+      },
+      {
+        "id": 12034320195,
+        "lat": 45.5126042,
+        "lon": -73.5507616,
+        "x": 456.282,
+        "y": 877.665
+      },
+      {
+        "id": 12034320196,
+        "lat": 45.5125272,
+        "lon": -73.5507448,
+        "x": 457.593,
+        "y": 869.094
+      },
+      {
+        "id": 12034320197,
+        "lat": 45.5124636,
+        "lon": -73.550786,
+        "x": 454.379,
+        "y": 862.014
+      },
+      {
+        "id": 12034320199,
+        "lat": 45.5130081,
+        "lon": -73.5505613,
+        "x": 471.909,
+        "y": 922.627
+      },
+      {
+        "id": 12034320200,
+        "lat": 45.5128752,
+        "lon": -73.5506226,
+        "x": 467.127,
+        "y": 907.833
+      },
+      {
+        "id": 12034320201,
+        "lat": 45.5127776,
+        "lon": -73.5506713,
+        "x": 463.327,
+        "y": 896.968
+      },
+      {
+        "id": 12034320202,
+        "lat": 45.5125676,
+        "lon": -73.5507231,
+        "x": 459.286,
+        "y": 873.591
+      },
+      {
+        "id": 12034320203,
+        "lat": 45.5125065,
+        "lon": -73.5508173,
+        "x": 451.937,
+        "y": 866.789
+      },
+      {
+        "id": 12034320502,
+        "lat": 45.5129887,
+        "lon": -73.5510885,
+        "x": 430.778,
+        "y": 920.467
+      },
+      {
+        "id": 12034320888,
+        "lat": 45.5114914,
+        "lon": -73.5496707,
+        "x": 541.393,
+        "y": 753.789
+      },
+      {
+        "id": 12034320889,
+        "lat": 45.5117454,
+        "lon": -73.5495373,
+        "x": 551.8,
+        "y": 782.064
+      },
+      {
+        "id": 12034320890,
+        "lat": 45.5120317,
+        "lon": -73.5493923,
+        "x": 563.113,
+        "y": 813.935
+      },
+      {
+        "id": 12034320891,
+        "lat": 45.5120986,
+        "lon": -73.5493394,
+        "x": 567.24,
+        "y": 821.382
+      },
+      {
+        "id": 12034320892,
+        "lat": 45.5119562,
+        "lon": -73.549439,
+        "x": 559.469,
+        "y": 805.53
+      },
+      {
+        "id": 12034320893,
+        "lat": 45.5117946,
+        "lon": -73.5495079,
+        "x": 554.094,
+        "y": 787.541
+      },
+      {
+        "id": 12034320894,
+        "lat": 45.5116894,
+        "lon": -73.5495732,
+        "x": 548.999,
+        "y": 775.83
+      },
+      {
+        "id": 12034320895,
+        "lat": 45.5116011,
+        "lon": -73.5496124,
+        "x": 545.941,
+        "y": 766.001
+      },
+      {
+        "id": 12034320896,
+        "lat": 45.5115295,
+        "lon": -73.5496528,
+        "x": 542.789,
+        "y": 758.03
+      },
+      {
+        "id": 12034320897,
+        "lat": 45.5114572,
+        "lon": -73.5496881,
+        "x": 540.035,
+        "y": 749.982
+      },
+      {
+        "id": 12034320898,
+        "lat": 45.5113787,
+        "lon": -73.5497305,
+        "x": 536.727,
+        "y": 741.243
+      },
+      {
+        "id": 12034320899,
+        "lat": 45.5112983,
+        "lon": -73.5497675,
+        "x": 533.84,
+        "y": 732.293
+      },
+      {
+        "id": 12034320900,
+        "lat": 45.5112247,
+        "lon": -73.5498081,
+        "x": 530.673,
+        "y": 724.1
+      },
+      {
+        "id": 12034320901,
+        "lat": 45.511151,
+        "lon": -73.5498476,
+        "x": 527.591,
+        "y": 715.896
+      },
+      {
+        "id": 12034320902,
+        "lat": 45.5109866,
+        "lon": -73.5502509,
+        "x": 496.126,
+        "y": 697.595
+      },
+      {
+        "id": 12034333369,
+        "lat": 45.5120452,
+        "lon": -73.5499844,
+        "x": 516.918,
+        "y": 815.438
+      },
+      {
+        "id": 12034333370,
+        "lat": 45.5120144,
+        "lon": -73.5498589,
+        "x": 526.709,
+        "y": 812.009
+      },
+      {
+        "id": 12034333379,
+        "lat": 45.5122027,
+        "lon": -73.5506014,
+        "x": 468.781,
+        "y": 832.97
+      },
+      {
+        "id": 12034333380,
+        "lat": 45.5121803,
+        "lon": -73.5505126,
+        "x": 475.709,
+        "y": 830.477
+      },
+      {
+        "id": 12034333381,
+        "lat": 45.5121533,
+        "lon": -73.5504158,
+        "x": 483.261,
+        "y": 827.471
+      },
+      {
+        "id": 12034333382,
+        "lat": 45.5121354,
+        "lon": -73.5503334,
+        "x": 489.69,
+        "y": 825.479
+      },
+      {
+        "id": 12034333383,
+        "lat": 45.5121875,
+        "lon": -73.5500399,
+        "x": 512.588,
+        "y": 831.278
+      },
+      {
+        "id": 12034333384,
+        "lat": 45.512158,
+        "lon": -73.5499262,
+        "x": 521.459,
+        "y": 827.994
+      },
+      {
+        "id": 12034333385,
+        "lat": 45.5121177,
+        "lon": -73.5497753,
+        "x": 533.232,
+        "y": 823.508
+      },
+      {
+        "id": 12034333386,
+        "lat": 45.5120887,
+        "lon": -73.5496612,
+        "x": 542.134,
+        "y": 820.28
+      },
+      {
+        "id": 12034333387,
+        "lat": 45.5123332,
+        "lon": -73.5505955,
+        "x": 469.241,
+        "y": 847.498
+      },
+      {
+        "id": 12034333388,
+        "lat": 45.5123557,
+        "lon": -73.5506959,
+        "x": 461.408,
+        "y": 850.002
+      },
+      {
+        "id": 12034333389,
+        "lat": 45.5123063,
+        "lon": -73.5505003,
+        "x": 476.669,
+        "y": 844.503
+      },
+      {
+        "id": 12034333390,
+        "lat": 45.5122793,
+        "lon": -73.5503931,
+        "x": 485.032,
+        "y": 841.497
+      },
+      {
+        "id": 12034333391,
+        "lat": 45.5122524,
+        "lon": -73.5502855,
+        "x": 493.427,
+        "y": 838.503
+      },
+      {
+        "id": 12034333392,
+        "lat": 45.5122299,
+        "lon": -73.5501986,
+        "x": 500.207,
+        "y": 835.998
+      },
+      {
+        "id": 12034333865,
+        "lat": 45.5129291,
+        "lon": -73.5496704,
+        "x": 541.416,
+        "y": 913.833
+      },
+      {
+        "id": 12034333866,
+        "lat": 45.5128916,
+        "lon": -73.5495753,
+        "x": 548.835,
+        "y": 909.658
+      },
+      {
+        "id": 12034333867,
+        "lat": 45.5128426,
+        "lon": -73.5494508,
+        "x": 558.549,
+        "y": 904.204
+      },
+      {
+        "id": 12034333868,
+        "lat": 45.5127972,
+        "lon": -73.5493372,
+        "x": 567.412,
+        "y": 899.15
+      },
+      {
+        "id": 12034333924,
+        "lat": 45.5130444,
+        "lon": -73.5499518,
+        "x": 519.462,
+        "y": 926.668
+      },
+      {
+        "id": 12034333925,
+        "lat": 45.5129936,
+        "lon": -73.5498247,
+        "x": 529.378,
+        "y": 921.013
+      },
+      {
+        "id": 12034333931,
+        "lat": 45.5129052,
+        "lon": -73.5493549,
+        "x": 566.031,
+        "y": 911.172
+      },
+      {
+        "id": 12034333932,
+        "lat": 45.5129726,
+        "lon": -73.5495262,
+        "x": 552.666,
+        "y": 918.675
+      },
+      {
+        "id": 12034333933,
+        "lat": 45.5130222,
+        "lon": -73.549649,
+        "x": 543.086,
+        "y": 924.197
+      },
+      {
+        "id": 12034337656,
+        "lat": 45.510952,
+        "lon": -73.5504971,
+        "x": 476.918,
+        "y": 693.743
+      },
+      {
+        "id": 12034337657,
+        "lat": 45.5109384,
+        "lon": -73.5504348,
+        "x": 481.779,
+        "y": 692.229
+      },
+      {
+        "id": 12034337658,
+        "lat": 45.510997,
+        "lon": -73.5504383,
+        "x": 481.506,
+        "y": 698.752
+      },
+      {
+        "id": 12034643150,
+        "lat": 45.5104157,
+        "lon": -73.5501557,
+        "x": 503.554,
+        "y": 634.042
+      },
+      {
+        "id": 12034643323,
+        "lat": 45.5104619,
+        "lon": -73.5501417,
+        "x": 504.646,
+        "y": 639.185
+      },
+      {
+        "id": 12034643324,
+        "lat": 45.5105229,
+        "lon": -73.5501119,
+        "x": 506.971,
+        "y": 645.976
+      },
+      {
+        "id": 12034643325,
+        "lat": 45.5106297,
+        "lon": -73.5500579,
+        "x": 511.184,
+        "y": 657.865
+      },
+      {
+        "id": 12034643326,
+        "lat": 45.5106944,
+        "lon": -73.5500264,
+        "x": 513.641,
+        "y": 665.067
+      },
+      {
+        "id": 12034643345,
+        "lat": 45.5105876,
+        "lon": -73.5500917,
+        "x": 508.547,
+        "y": 653.178
+      },
+      {
+        "id": 12034643346,
+        "lat": 45.5107546,
+        "lon": -73.5499921,
+        "x": 516.317,
+        "y": 671.769
+      },
+      {
+        "id": 12034643360,
+        "lat": 45.5103589,
+        "lon": -73.5500597,
+        "x": 511.043,
+        "y": 627.719
+      },
+      {
+        "id": 12034643361,
+        "lat": 45.5103716,
+        "lon": -73.5500551,
+        "x": 511.402,
+        "y": 629.133
+      },
+      {
+        "id": 12034643362,
+        "lat": 45.5103823,
+        "lon": -73.5500499,
+        "x": 511.808,
+        "y": 630.324
+      },
+      {
+        "id": 12034643363,
+        "lat": 45.5104052,
+        "lon": -73.5500386,
+        "x": 512.69,
+        "y": 632.874
+      },
+      {
+        "id": 12034643365,
+        "lat": 45.5104386,
+        "lon": -73.5500329,
+        "x": 513.134,
+        "y": 636.592
+      },
+      {
+        "id": 12034643366,
+        "lat": 45.5104628,
+        "lon": -73.5500073,
+        "x": 515.132,
+        "y": 639.286
+      },
+      {
+        "id": 12034643367,
+        "lat": 45.5104791,
+        "lon": -73.5499997,
+        "x": 515.725,
+        "y": 641.1
+      },
+      {
+        "id": 12034643368,
+        "lat": 45.5105056,
+        "lon": -73.5499866,
+        "x": 516.747,
+        "y": 644.05
+      },
+      {
+        "id": 12034643369,
+        "lat": 45.5105202,
+        "lon": -73.5499784,
+        "x": 517.386,
+        "y": 645.675
+      },
+      {
+        "id": 12034643370,
+        "lat": 45.5105418,
+        "lon": -73.5499889,
+        "x": 516.567,
+        "y": 648.08
+      },
+      {
+        "id": 12034643371,
+        "lat": 45.5105564,
+        "lon": -73.5499604,
+        "x": 518.791,
+        "y": 649.705
+      },
+      {
+        "id": 12034643372,
+        "lat": 45.5105823,
+        "lon": -73.5499477,
+        "x": 519.781,
+        "y": 652.588
+      },
+      {
+        "id": 12034643373,
+        "lat": 45.5106181,
+        "lon": -73.5499292,
+        "x": 521.225,
+        "y": 656.573
+      },
+      {
+        "id": 12034643374,
+        "lat": 45.5106589,
+        "lon": -73.5499084,
+        "x": 522.848,
+        "y": 661.115
+      },
+      {
+        "id": 12034643375,
+        "lat": 45.5106862,
+        "lon": -73.5498946,
+        "x": 523.924,
+        "y": 664.154
+      },
+      {
+        "id": 12034643376,
+        "lat": 45.5107561,
+        "lon": -73.5498589,
+        "x": 526.709,
+        "y": 671.936
+      },
+      {
+        "id": 12034643377,
+        "lat": 45.5108013,
+        "lon": -73.549836,
+        "x": 528.496,
+        "y": 676.967
+      },
+      {
+        "id": 12034643378,
+        "lat": 45.5108325,
+        "lon": -73.5498206,
+        "x": 529.698,
+        "y": 680.44
+      },
+      {
+        "id": 12034643379,
+        "lat": 45.5108598,
+        "lon": -73.5498063,
+        "x": 530.813,
+        "y": 683.479
+      },
+      {
+        "id": 12034643380,
+        "lat": 45.5108971,
+        "lon": -73.5497885,
+        "x": 532.202,
+        "y": 687.632
+      },
+      {
+        "id": 12034643702,
+        "lat": 45.5121627,
+        "lon": -73.5509678,
+        "x": 440.195,
+        "y": 828.518
+      },
+      {
+        "id": 12034643703,
+        "lat": 45.5122181,
+        "lon": -73.551106,
+        "x": 429.413,
+        "y": 834.685
+      },
+      {
+        "id": 12034643704,
+        "lat": 45.5122314,
+        "lon": -73.5510101,
+        "x": 436.895,
+        "y": 836.165
+      },
+      {
+        "id": 12034643712,
+        "lat": 45.5122493,
+        "lon": -73.5509237,
+        "x": 443.636,
+        "y": 838.158
+      },
+      {
+        "id": 12034643713,
+        "lat": 45.5122889,
+        "lon": -73.5510625,
+        "x": 432.807,
+        "y": 842.566
+      },
+      {
+        "id": 12034643714,
+        "lat": 45.5122205,
+        "lon": -73.5511597,
+        "x": 425.223,
+        "y": 834.952
+      },
+      {
+        "id": 12034643735,
+        "lat": 45.5121885,
+        "lon": -73.5510702,
+        "x": 432.206,
+        "y": 831.39
+      },
+      {
+        "id": 12034643736,
+        "lat": 45.5121519,
+        "lon": -73.5509811,
+        "x": 439.157,
+        "y": 827.315
+      },
+      {
+        "id": 12034643737,
+        "lat": 45.5120947,
+        "lon": -73.5510133,
+        "x": 436.645,
+        "y": 820.948
+      },
+      {
+        "id": 12034643738,
+        "lat": 45.5121243,
+        "lon": -73.5511052,
+        "x": 429.475,
+        "y": 824.243
+      },
+      {
+        "id": 12034643739,
+        "lat": 45.5121566,
+        "lon": -73.5511988,
+        "x": 422.173,
+        "y": 827.839
+      },
+      {
+        "id": 12034643740,
+        "lat": 45.5120419,
+        "lon": -73.5510449,
+        "x": 434.18,
+        "y": 815.07
+      },
+      {
+        "id": 12034643741,
+        "lat": 45.512066,
+        "lon": -73.5511419,
+        "x": 426.612,
+        "y": 817.753
+      },
+      {
+        "id": 12034643742,
+        "lat": 45.512097,
+        "lon": -73.5512344,
+        "x": 419.395,
+        "y": 821.204
+      },
+      {
+        "id": 12034643743,
+        "lat": 45.5122544,
+        "lon": -73.5510869,
+        "x": 430.903,
+        "y": 838.726
+      },
+      {
+        "id": 12034643744,
+        "lat": 45.5121897,
+        "lon": -73.5510412,
+        "x": 434.468,
+        "y": 831.523
+      },
+      {
+        "id": 12034643745,
+        "lat": 45.5122074,
+        "lon": -73.5509396,
+        "x": 442.395,
+        "y": 833.494
+      },
+      {
+        "id": 12034643746,
+        "lat": 45.5122765,
+        "lon": -73.5509881,
+        "x": 438.611,
+        "y": 841.186
+      },
+      {
+        "id": 12034644048,
+        "lat": 45.5108874,
+        "lon": -73.5503331,
+        "x": 489.713,
+        "y": 686.552
+      },
+      {
+        "id": 12034644049,
+        "lat": 45.5108337,
+        "lon": -73.5503651,
+        "x": 487.217,
+        "y": 680.574
+      },
+      {
+        "id": 12034644050,
+        "lat": 45.5107757,
+        "lon": -73.5504059,
+        "x": 484.033,
+        "y": 674.117
+      },
+      {
+        "id": 12034644051,
+        "lat": 45.5107176,
+        "lon": -73.5504277,
+        "x": 482.333,
+        "y": 667.65
+      },
+      {
+        "id": 12034644052,
+        "lat": 45.5106678,
+        "lon": -73.5504604,
+        "x": 479.781,
+        "y": 662.106
+      },
+      {
+        "id": 12034644053,
+        "lat": 45.5105747,
+        "lon": -73.5505244,
+        "x": 474.788,
+        "y": 651.742
+      },
+      {
+        "id": 12034644054,
+        "lat": 45.5105086,
+        "lon": -73.5505618,
+        "x": 471.87,
+        "y": 644.384
+      },
+      {
+        "id": 12034644055,
+        "lat": 45.510476,
+        "lon": -73.5505802,
+        "x": 470.435,
+        "y": 640.755
+      },
+      {
+        "id": 12034644056,
+        "lat": 45.5106918,
+        "lon": -73.5503922,
+        "x": 485.102,
+        "y": 664.778
+      },
+      {
+        "id": 12034644057,
+        "lat": 45.5106352,
+        "lon": -73.5504256,
+        "x": 482.497,
+        "y": 658.477
+      },
+      {
+        "id": 12034644058,
+        "lat": 45.5104899,
+        "lon": -73.550497,
+        "x": 476.926,
+        "y": 642.302
+      },
+      {
+        "id": 12034657584,
+        "lat": 45.5119944,
+        "lon": -73.5512047,
+        "x": 421.712,
+        "y": 809.783
+      },
+      {
+        "id": 12034657873,
+        "lat": 45.5114227,
+        "lon": -73.5511506,
+        "x": 425.933,
+        "y": 746.141
+      },
+      {
+        "id": 12034657874,
+        "lat": 45.5114891,
+        "lon": -73.5511101,
+        "x": 429.093,
+        "y": 753.533
+      },
+      {
+        "id": 12034657875,
+        "lat": 45.511634,
+        "lon": -73.551095,
+        "x": 430.271,
+        "y": 769.663
+      },
+      {
+        "id": 12034657876,
+        "lat": 45.5115722,
+        "lon": -73.5511321,
+        "x": 427.377,
+        "y": 762.783
+      },
+      {
+        "id": 12034657877,
+        "lat": 45.5115069,
+        "lon": -73.5511743,
+        "x": 424.084,
+        "y": 755.514
+      },
+      {
+        "id": 12034657878,
+        "lat": 45.511444,
+        "lon": -73.5512114,
+        "x": 421.19,
+        "y": 748.512
+      },
+      {
+        "id": 12034657879,
+        "lat": 45.5114594,
+        "lon": -73.5512688,
+        "x": 416.711,
+        "y": 750.227
+      },
+      {
+        "id": 12034657880,
+        "lat": 45.5115259,
+        "lon": -73.5512317,
+        "x": 419.606,
+        "y": 757.629
+      },
+      {
+        "id": 12034657881,
+        "lat": 45.5115864,
+        "lon": -73.5511895,
+        "x": 422.898,
+        "y": 764.364
+      },
+      {
+        "id": 12034657882,
+        "lat": 45.5116529,
+        "lon": -73.5511558,
+        "x": 425.528,
+        "y": 771.767
+      },
+      {
+        "id": 12034657883,
+        "lat": 45.5117182,
+        "lon": -73.5511137,
+        "x": 428.812,
+        "y": 779.036
+      },
+      {
+        "id": 12034657884,
+        "lat": 45.5117847,
+        "lon": -73.5510783,
+        "x": 431.574,
+        "y": 786.439
+      },
+      {
+        "id": 12034657885,
+        "lat": 45.5113444,
+        "lon": -73.5510053,
+        "x": 437.269,
+        "y": 737.425
+      },
+      {
+        "id": 12034657886,
+        "lat": 45.5114298,
+        "lon": -73.5509868,
+        "x": 438.713,
+        "y": 746.932
+      },
+      {
+        "id": 12034657887,
+        "lat": 45.5114738,
+        "lon": -73.5509801,
+        "x": 439.235,
+        "y": 751.83
+      },
+      {
+        "id": 12034657888,
+        "lat": 45.5115165,
+        "lon": -73.5509683,
+        "x": 440.156,
+        "y": 756.583
+      },
+      {
+        "id": 12034657889,
+        "lat": 45.5115604,
+        "lon": -73.5509565,
+        "x": 441.077,
+        "y": 761.47
+      },
+      {
+        "id": 12034657890,
+        "lat": 45.5116067,
+        "lon": -73.5509481,
+        "x": 441.732,
+        "y": 766.624
+      },
+      {
+        "id": 12034657891,
+        "lat": 45.5116495,
+        "lon": -73.5509364,
+        "x": 442.645,
+        "y": 771.388
+      },
+      {
+        "id": 12034657892,
+        "lat": 45.511697,
+        "lon": -73.5509212,
+        "x": 443.831,
+        "y": 776.676
+      },
+      {
+        "id": 12034657893,
+        "lat": 45.5117777,
+        "lon": -73.5509061,
+        "x": 445.009,
+        "y": 785.66
+      },
+      {
+        "id": 12034657894,
+        "lat": 45.5118204,
+        "lon": -73.5508994,
+        "x": 445.531,
+        "y": 790.413
+      },
+      {
+        "id": 12034657895,
+        "lat": 45.5118679,
+        "lon": -73.5508893,
+        "x": 446.319,
+        "y": 795.701
+      },
+      {
+        "id": 12034657896,
+        "lat": 45.5119284,
+        "lon": -73.5508741,
+        "x": 447.505,
+        "y": 802.435
+      },
+      {
+        "id": 12034657897,
+        "lat": 45.5120281,
+        "lon": -73.550859,
+        "x": 448.683,
+        "y": 813.534
+      },
+      {
+        "id": 12034657898,
+        "lat": 45.5120816,
+        "lon": -73.5508456,
+        "x": 449.729,
+        "y": 819.49
+      },
+      {
+        "id": 12034657899,
+        "lat": 45.5121231,
+        "lon": -73.5508372,
+        "x": 450.384,
+        "y": 824.109
+      },
+      {
+        "id": 12034657900,
+        "lat": 45.5121765,
+        "lon": -73.5508271,
+        "x": 451.172,
+        "y": 830.054
+      },
+      {
+        "id": 13903037816,
+        "lat": 45.5116141,
+        "lon": -73.5498187,
+        "x": 529.846,
+        "y": 767.448
+      },
+      {
+        "id": 13903075423,
+        "lat": 45.5116743,
+        "lon": -73.5497844,
+        "x": 532.522,
+        "y": 774.149
+      },
+      {
+        "id": 13903078492,
+        "lat": 45.5117337,
+        "lon": -73.5497531,
+        "x": 534.964,
+        "y": 780.762
+      },
+      {
+        "id": 13903081543,
+        "lat": 45.5113148,
+        "lon": -73.5499865,
+        "x": 516.754,
+        "y": 734.13
+      },
+      {
+        "id": 13903081977,
+        "lat": 45.5111922,
+        "lon": -73.5500589,
+        "x": 511.106,
+        "y": 720.482
+      },
+      {
+        "id": 13903084523,
+        "lat": 45.5113749,
+        "lon": -73.5499522,
+        "x": 519.43,
+        "y": 740.82
+      },
+      {
+        "id": 13903084964,
+        "lat": 45.5112458,
+        "lon": -73.5500255,
+        "x": 513.712,
+        "y": 726.449
+      },
+      {
+        "id": 13903087509,
+        "lat": 45.5114336,
+        "lon": -73.5499193,
+        "x": 521.997,
+        "y": 747.355
+      },
+      {
+        "id": 13903090646,
+        "lat": 45.5114931,
+        "lon": -73.5498844,
+        "x": 524.72,
+        "y": 753.978
+      },
+      {
+        "id": 13903100187,
+        "lat": 45.5115459,
+        "lon": -73.5498521,
+        "x": 527.24,
+        "y": 759.856
+      }
+    ]
+  }
+}

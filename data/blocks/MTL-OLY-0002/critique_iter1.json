@@ -1,0 +1,20 @@
+{
+  "block_id": "MTL-OLY-0002",
+  "iteration": 1,
+  "visual_critic_score": 48,
+  "streets_critic_score": 68,
+  "composite_score": 53.0,
+  "pass_threshold": 95.0,
+  "verdict": "ITERATE",
+  "automatic_fail_triggers": [
+    "Fail Trigger #1 & #2: Tour de Radio-Canada has continuous vertical-stripe slots without horizontal floor spandrels and blank windowless hexagonal end walls.",
+    "Fail Trigger #5: Bare leafless black tree trunks.",
+    "Streets-Critic Fail: Unclipped road and white sidewalk curbs cut straight across the St. Lawrence River water basin."
+  ],
+  "required_fixes_iter2": [
+    "Remodel Tour de Radio-Canada with discrete floor-by-floor recessed windows and horizontal spandrel bands on all 6 hexagonal faces.",
+    "Clip and remove the rogue roadway/sidewalk spline crossing the St. Lawrence River water basin.",
+    "Attach full green 3D foliage canopies to all trees along Boulevard Rene-Levesque and Parc Bellerive."
+  ],
+  "rsi_rule": "RSI-009"
+}

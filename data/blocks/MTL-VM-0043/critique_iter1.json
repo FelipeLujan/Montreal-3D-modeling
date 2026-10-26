@@ -1,0 +1,11 @@
+{
+  "block_id": "MTL-VM-0043",
+  "iteration": 1,
+  "pass_threshold": 95.0,
+  "visual_critic_score": 96,
+  "streets_critic_score": 97,
+  "composite_score": 96.25,
+  "verdict": "PASS",
+  "mean_color_sim_pct": 76.0,
+  "mean_edge_ratio": 1.17
+}

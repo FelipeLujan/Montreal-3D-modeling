@@ -1,0 +1,19 @@
+{
+  "block_id": "MTL-OLY-0003",
+  "iteration": 1,
+  "visual_critic_score": 53,
+  "streets_critic_score": 88,
+  "composite_score": 61.75,
+  "pass_threshold": 95.0,
+  "verdict": "ITERATE",
+  "automatic_fail_triggers": [
+    "Fail Trigger #2: Flanking pink-brick refinery wings and green-roofed warehouse of Sucrerie Lantic have windowless facades.",
+    "Fail Trigger #5: Bare leafless black tree trunks."
+  ],
+  "required_fixes_iter2": [
+    "Add floor-by-floor recessed industrial window grids, brick pilasters, and roof monitors to all flanking wings of Sucrerie Lantic.",
+    "Attach full green 3D foliage canopies to all trees.",
+    "Clip the rogue road spline crossing the river corner in NE_Iso."
+  ],
+  "rsi_rule": "RSI-009"
+}

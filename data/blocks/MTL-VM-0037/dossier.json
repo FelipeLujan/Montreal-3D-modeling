@@ -1,0 +1,2563 @@
+{
+  "block_id": "MTL-VM-0037",
+  "name": "Pont Victoria Approach, Windmill Point (Pointe-du-Moulin South) & Silo No. 4 Waterfront",
+  "street_address": "Rue de la Riverside / Rue Mill (Pont Victoria Approach), Montréal, QC H3C 1Y4",
+  "archetype": "Historic Steel Through-Truss Victoria Bridge Approach, Windmill Point Harbor Basin, Grain Terminal Quay & Rail Corridor",
+  "blender_center_xy_m": [
+    554.71,
+    -1215.609
+  ],
+  "crs": {
+    "projection": "Local Metric Tangent Plane (EPSG:32188 / MTM Zone 8 aligned)",
+    "master_origin_wgs84": [
+      45.50472,
+      -73.55661
+    ],
+    "block_center_wgs84": [
+      45.4938,
+      -73.5495
+    ],
+    "block_center_xy_m": [
+      554.71,
+      -1215.609
+    ],
+    "unit": "meters"
+  },
+  "satellite": {
+    "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0037\\streetview\\satellite_topdown.png",
+    "span_meters": 133.95,
+    "center_xy_m": [
+      554.71,
+      -1215.609
+    ]
+  },
+  "streetview_cameras": [
+    {
+      "label": "Pont_Victoria_North_Approach",
+      "requested_lat": 45.49325,
+      "requested_lon": -73.55045,
+      "actual_lat": 45.49326740666268,
+      "actual_lon": -73.55126867527497,
+      "blender_cam_xy_m": [
+        416.721,
+        -1274.897
+      ],
+      "heading": 135,
+      "heading_deg": 135,
+      "pitch_deg": 12,
+      "fov_deg": 90,
+      "pano_id": "x4bKDCAblnxsQMRAr-tyFA",
+      "date": "2022-06",
+      "copyright": "© 2026 Google",
+      "refetched_source": "direct",
+      "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0037\\streetview\\Pont_Victoria_North_Approach.jpg",
+      "google_maps_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.49327,-73.55127&heading=135&pitch=12&fov=90&pano=x4bKDCAblnxsQMRAr-tyFA"
+    },
+    {
+      "label": "Rue_Mill_Windmill_Point_East",
+      "requested_lat": 45.49445,
+      "requested_lon": -73.55015,
+      "actual_lat": 45.49485957869118,
+      "actual_lon": -73.5510182831742,
+      "blender_cam_xy_m": [
+        436.256,
+        -1097.657
+      ],
+      "heading": 65,
+      "heading_deg": 65,
+      "pitch_deg": 12,
+      "fov_deg": 90,
+      "pano_id": "3Y42r-utk-ZdAeGSciBx4w",
+      "date": "2022-06",
+      "copyright": "© 2026 Google",
+      "refetched_source": "offset_45m_135deg",
+      "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0037\\streetview\\Rue_Mill_Windmill_Point_East.jpg",
+      "google_maps_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.49486,-73.55102&heading=65&pitch=12&fov=90&pano=3Y42r-utk-ZdAeGSciBx4w"
+    },
+    {
+      "label": "Riverside_Harbor_Industrial_View",
+      "requested_lat": 45.49395,
+      "requested_lon": -73.55125,
+      "actual_lat": 45.49396033365328,
+      "actual_lon": -73.5511513386121,
+      "blender_cam_xy_m": [
+        425.876,
+        -1197.761
+      ],
+      "heading": 95,
+      "heading_deg": 95,
+      "pitch_deg": 12,
+      "fov_deg": 90,
+      "pano_id": "B78Jk7v0ieUn7oVKiVe52A",
+      "date": "2022-06",
+      "copyright": "© 2026 Google",
+      "refetched_source": "direct",
+      "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0037\\streetview\\Riverside_Harbor_Industrial_View.jpg",
+      "google_maps_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.49396,-73.55115&heading=95&pitch=12&fov=90&pano=B78Jk7v0ieUn7oVKiVe52A"
+    },
+    {
+      "label": "Bassin_Windmill_South_Quay",
+      "requested_lat": 45.49485,
+      "requested_lon": -73.55085,
+      "actual_lat": 45.49503023493484,
+      "actual_lon": -73.55099509791742,
+      "blender_cam_xy_m": [
+        438.065,
+        -1078.66
+      ],
+      "heading": 155,
+      "heading_deg": 155,
+      "pitch_deg": 12,
+      "fov_deg": 90,
+      "pano_id": "d-A9zZQcHuO3OzM00oyycw",
+      "date": "2022-06",
+      "copyright": "© 2026 Google",
+      "refetched_source": "offset_25m_135deg",
+      "image_path": "C:\\Users\\Felipe\\Documents\\coding\\montreal\\data\\blocks\\MTL-VM-0037\\streetview\\Bassin_Windmill_South_Quay.jpg",
+      "google_maps_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=45.49503,-73.55100&heading=155&pitch=12&fov=90&pano=d-A9zZQcHuO3OzM00oyycw"
+    }
+  ],
+  "osm_features": {
+    "buildings": [
+      {
+        "id": 745152219,
+        "name": "",
+        "tags": {
+          "attribution": "Natural Resources Canada",
+          "building": "industrial",
+          "canvec:CODE": "2010252",
+          "source": "CanVec_Import_2009"
+        },
+        "centroid_latlon": [
+          45.494527,
+          -73.551415
+        ],
+        "centroid_xy": [
+          405.321,
+          -1134.662
+        ],
+        "coords_xy": [
+          [
+            381.689,
+            -1163.511
+          ],
+          [
+            391.176,
+            -1082.159
+          ],
+          [
+            421.315,
+            -1085.621
+          ],
+          [
+            418.342,
+            -1111.046
+          ],
+          [
+            416.025,
+            -1130.85
+          ],
+          [
+            409.136,
+            -1130.038
+          ],
+          [
+            408.722,
+            -1133.589
+          ],
+          [
+            407.373,
+            -1145.121
+          ],
+          [
+            406.624,
+            -1151.533
+          ],
+          [
+            411.742,
+            -1152.123
+          ],
+          [
+            410.017,
+            -1166.84
+          ],
+          [
+            381.689,
+            -1163.511
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0037",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1272905587,
+        "name": "Clipper Inc.",
+        "tags": {
+          "building": "industrial",
+          "name": "Clipper Inc.",
+          "office": "company"
+        },
+        "centroid_latlon": [
+          45.49498,
+          -73.550623
+        ],
+        "centroid_xy": [
+          467.079,
+          -1084.197
+        ],
+        "coords_xy": [
+          [
+            475.6,
+            -1071.984
+          ],
+          [
+            467.938,
+            -1071.706
+          ],
+          [
+            467.798,
+            -1079.209
+          ],
+          [
+            459.434,
+            -1079.209
+          ],
+          [
+            458.007,
+            -1079.209
+          ],
+          [
+            457.64,
+            -1089.818
+          ],
+          [
+            467.252,
+            -1090.319
+          ],
+          [
+            466.979,
+            -1104.122
+          ],
+          [
+            474.539,
+            -1104.412
+          ],
+          [
+            475.6,
+            -1071.984
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0037",
+        "is_primary_owner": true
+      },
+      {
+        "id": 1392727902,
+        "name": "",
+        "tags": {
+          "building": "industrial"
+        },
+        "centroid_latlon": [
+          45.494857,
+          -73.550784
+        ],
+        "centroid_xy": [
+          454.543,
+          -1097.974
+        ],
+        "coords_xy": [
+          [
+            451.398,
+            -1094.17
+          ],
+          [
+            451.102,
+            -1098.122
+          ],
+          [
+            450.743,
+            -1102.831
+          ],
+          [
+            460.979,
+            -1103.599
+          ],
+          [
+            461.634,
+            -1094.95
+          ],
+          [
+            451.398,
+            -1094.17
+          ]
+        ],
+        "owner_block_id": "MTL-VM-0037",
+        "is_primary_owner": true
+      }
+    ],
+    "highways": [
+      {
+        "id": 48666270,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "canvec:CODE": "1760011",
+          "canvec:ROADCLASS": "Local/Street",
+          "canvec:STRUCTYPE": "None",
+          "canvec:UUID": "2a3c7a9f242e400296d17b4d0327ee9e",
+          "highway": "service",
+          "lanes": "2",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.493465,
+          -73.54776
+        ],
+        "centroid_xy": [
+          690.476,
+          -1252.895
+        ],
+        "coords_xy": [
+          [
+            732.678,
+            -1151.4
+          ],
+          [
+            705.044,
+            -1149.062
+          ],
+          [
+            685.102,
+            -1147.838
+          ],
+          [
+            682.887,
+            -1187.356
+          ],
+          [
+            670.45,
+            -1409.249
+          ],
+          [
+            666.698,
+            -1472.467
+          ]
+        ]
+      },
+      {
+        "id": 466649227,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.4948,
+          -73.54788
+        ],
+        "centroid_xy": [
+          681.082,
+          -1104.338
+        ],
+        "coords_xy": [
+          [
+            639.064,
+            -1100.738
+          ],
+          [
+            695.588,
+            -1105.581
+          ],
+          [
+            708.594,
+            -1106.694
+          ]
+        ]
+      },
+      {
+        "id": 466649239,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.492399,
+          -73.547767
+        ],
+        "centroid_xy": [
+          689.889,
+          -1371.53
+        ],
+        "coords_xy": [
+          [
+            627.345,
+            -1470.998
+          ],
+          [
+            666.698,
+            -1472.467
+          ],
+          [
+            695.939,
+            -1473.881
+          ],
+          [
+            706.557,
+            -1462.159
+          ],
+          [
+            707.244,
+            -1442.077
+          ],
+          [
+            715.529,
+            -1247.858
+          ],
+          [
+            716.91,
+            -1215.442
+          ],
+          [
+            682.887,
+            -1187.356
+          ]
+        ]
+      },
+      {
+        "id": 466653264,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.494205,
+          -73.550856
+        ],
+        "centroid_xy": [
+          448.902,
+          -1170.555
+        ],
+        "coords_xy": [
+          [
+            430.911,
+            -1168.832
+          ],
+          [
+            436.411,
+            -1169.411
+          ],
+          [
+            437.932,
+            -1169.556
+          ],
+          [
+            490.353,
+            -1174.421
+          ]
+        ]
+      },
+      {
+        "id": 466653272,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.49445,
+          -73.551219
+        ],
+        "centroid_xy": [
+          420.577,
+          -1143.223
+        ],
+        "coords_xy": [
+          [
+            433.478,
+            -1143.641
+          ],
+          [
+            428.18,
+            -1143.073
+          ],
+          [
+            413.279,
+            -1141.058
+          ],
+          [
+            407.373,
+            -1145.121
+          ]
+        ]
+      },
+      {
+        "id": 466653276,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.493903,
+          -73.550162
+        ],
+        "centroid_xy": [
+          503.036,
+          -1204.096
+        ],
+        "coords_xy": [
+          [
+            444.954,
+            -1015.423
+          ],
+          [
+            457.328,
+            -1016.08
+          ],
+          [
+            479.025,
+            -1017.738
+          ],
+          [
+            492.303,
+            -1018.952
+          ],
+          [
+            501.985,
+            -1019.976
+          ],
+          [
+            510.396,
+            -1021.056
+          ],
+          [
+            511.426,
+            -1021.078
+          ],
+          [
+            515.428,
+            -1021.178
+          ],
+          [
+            525.438,
+            -1021.557
+          ],
+          [
+            521.849,
+            -1096.13
+          ],
+          [
+            518.892,
+            -1142.706
+          ],
+          [
+            516.2,
+            -1190.284
+          ],
+          [
+            513.181,
+            -1230.815
+          ],
+          [
+            510.825,
+            -1263.409
+          ],
+          [
+            510.224,
+            -1275.499
+          ],
+          [
+            509.686,
+            -1289.814
+          ],
+          [
+            509.483,
+            -1304.598
+          ],
+          [
+            507.002,
+            -1338.884
+          ],
+          [
+            505.988,
+            -1374.428
+          ],
+          [
+            502.422,
+            -1437.201
+          ],
+          [
+            502.29,
+            -1440.897
+          ],
+          [
+            502.157,
+            -1443.524
+          ],
+          [
+            502.157,
+            -1446.819
+          ],
+          [
+            502.235,
+            -1450.259
+          ]
+        ]
+      },
+      {
+        "id": 1083631059,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "canvec:CODE": "1760011",
+          "canvec:ROADCLASS": "Local/Street",
+          "canvec:STRUCTYPE": "None",
+          "canvec:UUID": "2a3c7a9f242e400296d17b4d0327ee9e",
+          "highway": "service",
+          "lanes": "2",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.494599,
+          -73.547081
+        ],
+        "centroid_xy": [
+          743.425,
+          -1126.62
+        ],
+        "coords_xy": [
+          [
+            732.678,
+            -1151.4
+          ],
+          [
+            734.55,
+            -1134.201
+          ],
+          [
+            751.051,
+            -1135.448
+          ],
+          [
+            755.42,
+            -1085.432
+          ]
+        ]
+      },
+      {
+        "id": 1391560313,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.493278,
+          -73.550648
+        ],
+        "centroid_xy": [
+          465.115,
+          -1273.729
+        ],
+        "coords_xy": [
+          [
+            497.897,
+            -1283.347
+          ],
+          [
+            495.526,
+            -1283.013
+          ],
+          [
+            490.525,
+            -1282.401
+          ],
+          [
+            487.872,
+            -1282.044
+          ],
+          [
+            481.724,
+            -1281.265
+          ],
+          [
+            473.797,
+            -1269.098
+          ],
+          [
+            452.654,
+            -1266.593
+          ],
+          [
+            426.628,
+            -1263.543
+          ],
+          [
+            425.028,
+            -1263.32
+          ],
+          [
+            419.497,
+            -1262.664
+          ]
+        ]
+      },
+      {
+        "id": 1392727864,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.492489,
+          -73.551624
+        ],
+        "centroid_xy": [
+          388.97,
+          -1361.604
+        ],
+        "coords_xy": [
+          [
+            369.409,
+            -1392.596
+          ],
+          [
+            374.269,
+            -1348.669
+          ],
+          [
+            403.472,
+            -1352.242
+          ],
+          [
+            408.73,
+            -1352.91
+          ]
+        ]
+      },
+      {
+        "id": 1392727865,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.492357,
+          -73.551474
+        ],
+        "centroid_xy": [
+          400.686,
+          -1376.287
+        ],
+        "coords_xy": [
+          [
+            402.536,
+            -1359.734
+          ],
+          [
+            400.944,
+            -1376.12
+          ],
+          [
+            398.58,
+            -1393.008
+          ]
+        ]
+      },
+      {
+        "id": 1392727866,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.492574,
+          -73.551439
+        ],
+        "centroid_xy": [
+          403.443,
+          -1352.083
+        ],
+        "coords_xy": [
+          [
+            404.322,
+            -1344.272
+          ],
+          [
+            403.472,
+            -1352.242
+          ],
+          [
+            402.536,
+            -1359.734
+          ]
+        ]
+      },
+      {
+        "id": 1392727867,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494794,
+          -73.551075
+        ],
+        "centroid_xy": [
+          431.82,
+          -1104.98
+        ],
+        "coords_xy": [
+          [
+            432.097,
+            -1101.941
+          ],
+          [
+            431.543,
+            -1108.019
+          ]
+        ]
+      },
+      {
+        "id": 1392727868,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494659,
+          -73.551094
+        ],
+        "centroid_xy": [
+          430.362,
+          -1120.015
+        ],
+        "coords_xy": [
+          [
+            431.543,
+            -1108.019
+          ],
+          [
+            430.131,
+            -1122.357
+          ],
+          [
+            429.413,
+            -1129.67
+          ]
+        ]
+      },
+      {
+        "id": 1392727869,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494874,
+          -73.551064
+        ],
+        "centroid_xy": [
+          432.695,
+          -1096.015
+        ],
+        "coords_xy": [
+          [
+            433.314,
+            -1089.873
+          ],
+          [
+            432.674,
+            -1096.23
+          ],
+          [
+            432.097,
+            -1101.941
+          ]
+        ]
+      },
+      {
+        "id": 1392727870,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494537,
+          -73.551111
+        ],
+        "centroid_xy": [
+          429.05,
+          -1133.578
+        ],
+        "coords_xy": [
+          [
+            429.413,
+            -1129.67
+          ],
+          [
+            428.687,
+            -1137.485
+          ]
+        ]
+      },
+      {
+        "id": 1392727871,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494452,
+          -73.551122
+        ],
+        "centroid_xy": [
+          428.178,
+          -1143.036
+        ],
+        "coords_xy": [
+          [
+            428.687,
+            -1137.485
+          ],
+          [
+            428.18,
+            -1143.073
+          ],
+          [
+            427.665,
+            -1148.55
+          ]
+        ]
+      },
+      {
+        "id": 1392727872,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494111,
+          -73.551171
+        ],
+        "centroid_xy": [
+          424.339,
+          -1180.971
+        ],
+        "coords_xy": [
+          [
+            427.665,
+            -1148.55
+          ],
+          [
+            427.478,
+            -1150.52
+          ],
+          [
+            426.003,
+            -1167.931
+          ],
+          [
+            422.469,
+            -1202.306
+          ],
+          [
+            418.077,
+            -1235.546
+          ]
+        ]
+      },
+      {
+        "id": 1392727875,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.493595,
+          -73.551256
+        ],
+        "centroid_xy": [
+          417.728,
+          -1238.44
+        ],
+        "coords_xy": [
+          [
+            418.077,
+            -1235.546
+          ],
+          [
+            417.726,
+            -1238.474
+          ],
+          [
+            417.382,
+            -1241.301
+          ]
+        ]
+      },
+      {
+        "id": 1392727876,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "layer": "-1",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.493134,
+          -73.551339
+        ],
+        "centroid_xy": [
+          411.237,
+          -1289.707
+        ],
+        "coords_xy": [
+          [
+            417.382,
+            -1241.301
+          ],
+          [
+            412.007,
+            -1283.547
+          ],
+          [
+            404.322,
+            -1344.272
+          ]
+        ]
+      },
+      {
+        "id": 1392727881,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.493013,
+          -73.551743
+        ],
+        "centroid_xy": [
+          379.713,
+          -1303.251
+        ],
+        "coords_xy": [
+          [
+            345.473,
+            -1306.523
+          ],
+          [
+            353.462,
+            -1307.626
+          ],
+          [
+            356.591,
+            -1308.327
+          ],
+          [
+            364.728,
+            -1309.529
+          ],
+          [
+            380.152,
+            -1310.742
+          ],
+          [
+            384.271,
+            -1311.065
+          ],
+          [
+            386.035,
+            -1311.01
+          ],
+          [
+            387.743,
+            -1310.575
+          ],
+          [
+            389.311,
+            -1309.774
+          ],
+          [
+            390.677,
+            -1308.65
+          ],
+          [
+            391.753,
+            -1307.258
+          ],
+          [
+            392.502,
+            -1305.666
+          ],
+          [
+            393.064,
+            -1302.427
+          ],
+          [
+            400.218,
+            -1236.348
+          ]
+        ]
+      },
+      {
+        "id": 1392727882,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.493598,
+          -73.5513
+        ],
+        "centroid_xy": [
+          414.246,
+          -1238.051
+        ],
+        "coords_xy": [
+          [
+            400.218,
+            -1236.348
+          ],
+          [
+            416.399,
+            -1238.307
+          ],
+          [
+            417.726,
+            -1238.474
+          ],
+          [
+            422.641,
+            -1239.075
+          ]
+        ]
+      },
+      {
+        "id": 1392727883,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.493702,
+          -73.551554
+        ],
+        "centroid_xy": [
+          394.451,
+          -1226.467
+        ],
+        "coords_xy": [
+          [
+            400.218,
+            -1236.348
+          ],
+          [
+            407.357,
+            -1175.69
+          ],
+          [
+            395.725,
+            -1174.521
+          ],
+          [
+            388.804,
+            -1235.034
+          ],
+          [
+            380.152,
+            -1310.742
+          ]
+        ]
+      },
+      {
+        "id": 1392727884,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.49362,
+          -73.551553
+        ],
+        "centroid_xy": [
+          394.511,
+          -1235.691
+        ],
+        "coords_xy": [
+          [
+            400.218,
+            -1236.348
+          ],
+          [
+            388.804,
+            -1235.034
+          ]
+        ]
+      },
+      {
+        "id": 1392727885,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.494223,
+          -73.551317
+        ],
+        "centroid_xy": [
+          412.92,
+          -1168.565
+        ],
+        "coords_xy": [
+          [
+            407.357,
+            -1175.69
+          ],
+          [
+            414.745,
+            -1172.239
+          ],
+          [
+            416.657,
+            -1157.767
+          ]
+        ]
+      },
+      {
+        "id": 1392727890,
+        "name": "Rue Mill",
+        "tags": {
+          "cycleway:both": "no",
+          "foot": "use_sidepath",
+          "highway": "tertiary",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "40",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "oneway": "no",
+          "sidewalk:both": "separate",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.493713,
+          -73.551182
+        ],
+        "centroid_xy": [
+          423.514,
+          -1225.282
+        ],
+        "coords_xy": [
+          [
+            441.833,
+            -1057.724
+          ],
+          [
+            441.654,
+            -1059.494
+          ],
+          [
+            438.018,
+            -1096.775
+          ],
+          [
+            436.442,
+            -1112.894
+          ],
+          [
+            435.483,
+            -1122.802
+          ],
+          [
+            434.882,
+            -1128.924
+          ],
+          [
+            433.478,
+            -1143.641
+          ],
+          [
+            430.911,
+            -1168.832
+          ],
+          [
+            427.283,
+            -1200.002
+          ],
+          [
+            422.641,
+            -1239.075
+          ],
+          [
+            419.497,
+            -1262.664
+          ],
+          [
+            408.73,
+            -1352.91
+          ],
+          [
+            407.365,
+            -1364.398
+          ],
+          [
+            403.464,
+            -1397.104
+          ],
+          [
+            397.87,
+            -1444.036
+          ],
+          [
+            396.669,
+            -1453.231
+          ]
+        ]
+      },
+      {
+        "id": 1392727892,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494865,
+          -73.550927
+        ],
+        "centroid_xy": [
+          443.394,
+          -1097.002
+        ],
+        "coords_xy": [
+          [
+            443.862,
+            -1092.4
+          ],
+          [
+            443.363,
+            -1097.321
+          ],
+          [
+            442.957,
+            -1101.284
+          ]
+        ]
+      },
+      {
+        "id": 1392727893,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494786,
+          -73.550938
+        ],
+        "centroid_xy": [
+          442.5,
+          -1105.82
+        ],
+        "coords_xy": [
+          [
+            442.957,
+            -1101.284
+          ],
+          [
+            442.044,
+            -1110.356
+          ]
+        ]
+      },
+      {
+        "id": 1392727894,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494717,
+          -73.550948
+        ],
+        "centroid_xy": [
+          441.724,
+          -1113.507
+        ],
+        "coords_xy": [
+          [
+            442.044,
+            -1110.356
+          ],
+          [
+            441.732,
+            -1113.418
+          ],
+          [
+            441.396,
+            -1116.746
+          ]
+        ]
+      },
+      {
+        "id": 1392727895,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494516,
+          -73.550975
+        ],
+        "centroid_xy": [
+          439.602,
+          -1135.923
+        ],
+        "coords_xy": [
+          [
+            441.396,
+            -1116.746
+          ],
+          [
+            440.109,
+            -1129.47
+          ],
+          [
+            437.3,
+            -1161.552
+          ]
+        ]
+      },
+      {
+        "id": 1392727896,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.494592,
+          -73.550554
+        ],
+        "centroid_xy": [
+          472.49,
+          -1127.422
+        ],
+        "coords_xy": [
+          [
+            463.031,
+            -1115.31
+          ],
+          [
+            488.652,
+            -1117.603
+          ],
+          [
+            486.998,
+            -1145.522
+          ],
+          [
+            460.737,
+            -1143.362
+          ],
+          [
+            463.031,
+            -1115.31
+          ]
+        ]
+      },
+      {
+        "id": 1392727897,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494216,
+          -73.551016
+        ],
+        "centroid_xy": [
+          436.458,
+          -1169.255
+        ],
+        "coords_xy": [
+          [
+            437.3,
+            -1161.552
+          ],
+          [
+            436.411,
+            -1169.411
+          ],
+          [
+            435.662,
+            -1176.803
+          ]
+        ]
+      },
+      {
+        "id": 1392727898,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.494066,
+          -73.55104
+        ],
+        "centroid_xy": [
+          434.527,
+          -1185.992
+        ],
+        "coords_xy": [
+          [
+            435.662,
+            -1176.803
+          ],
+          [
+            433.392,
+            -1195.182
+          ]
+        ]
+      },
+      {
+        "id": 1392727903,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.494861,
+          -73.550908
+        ],
+        "centroid_xy": [
+          444.894,
+          -1097.488
+        ],
+        "coords_xy": [
+          [
+            451.102,
+            -1098.122
+          ],
+          [
+            447.092,
+            -1097.733
+          ],
+          [
+            443.363,
+            -1097.321
+          ],
+          [
+            438.018,
+            -1096.775
+          ]
+        ]
+      },
+      {
+        "id": 1392727904,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.493939,
+          -73.551063
+        ],
+        "centroid_xy": [
+          432.778,
+          -1200.161
+        ],
+        "coords_xy": [
+          [
+            433.392,
+            -1195.182
+          ],
+          [
+            432.729,
+            -1200.581
+          ],
+          [
+            432.214,
+            -1204.722
+          ]
+        ]
+      },
+      {
+        "id": 1392727905,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.493638,
+          -73.551116
+        ],
+        "centroid_xy": [
+          428.669,
+          -1233.691
+        ],
+        "coords_xy": [
+          [
+            432.214,
+            -1204.722
+          ],
+          [
+            427.798,
+            -1240.489
+          ],
+          [
+            425.996,
+            -1255.862
+          ]
+        ]
+      },
+      {
+        "id": 1392727906,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.493812,
+          -73.550921
+        ],
+        "centroid_xy": [
+          443.808,
+          -1214.295
+        ],
+        "coords_xy": [
+          [
+            470.864,
+            -1242.426
+          ],
+          [
+            446.725,
+            -1239.264
+          ],
+          [
+            449.487,
+            -1219.794
+          ],
+          [
+            444.096,
+            -1209.687
+          ],
+          [
+            444.954,
+            -1201.861
+          ],
+          [
+            434.328,
+            -1200.748
+          ],
+          [
+            432.729,
+            -1200.581
+          ],
+          [
+            427.283,
+            -1200.002
+          ]
+        ]
+      },
+      {
+        "id": 1392727910,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.494714,
+          -73.550881
+        ],
+        "centroid_xy": [
+          446.997,
+          -1113.896
+        ],
+        "coords_xy": [
+          [
+            463.031,
+            -1115.31
+          ],
+          [
+            450.072,
+            -1114.241
+          ],
+          [
+            443.706,
+            -1113.618
+          ],
+          [
+            441.732,
+            -1113.418
+          ],
+          [
+            436.442,
+            -1112.894
+          ]
+        ]
+      },
+      {
+        "id": 1392727911,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "unpaved"
+        },
+        "centroid_latlon": [
+          45.493755,
+          -73.550683
+        ],
+        "centroid_xy": [
+          462.427,
+          -1220.627
+        ],
+        "coords_xy": [
+          [
+            470.864,
+            -1242.426
+          ],
+          [
+            474.305,
+            -1211.0
+          ],
+          [
+            462.633,
+            -1209.553
+          ],
+          [
+            454.847,
+            -1220.362
+          ],
+          [
+            449.487,
+            -1219.794
+          ]
+        ]
+      },
+      {
+        "id": 1392727913,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.494752,
+          -73.551089
+        ],
+        "centroid_xy": [
+          430.71,
+          -1109.668
+        ],
+        "coords_xy": [
+          [
+            435.483,
+            -1122.802
+          ],
+          [
+            430.131,
+            -1122.357
+          ],
+          [
+            425.028,
+            -1121.933
+          ],
+          [
+            426.019,
+            -1111.87
+          ],
+          [
+            427.618,
+            -1095.707
+          ],
+          [
+            432.674,
+            -1096.23
+          ],
+          [
+            438.018,
+            -1096.775
+          ]
+        ]
+      },
+      {
+        "id": 1392727914,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.494736,
+          -73.551199
+        ],
+        "centroid_xy": [
+          422.181,
+          -1111.458
+        ],
+        "coords_xy": [
+          [
+            418.342,
+            -1111.046
+          ],
+          [
+            426.019,
+            -1111.87
+          ]
+        ]
+      },
+      {
+        "id": 1392727926,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.493374,
+          -73.551161
+        ],
+        "centroid_xy": [
+          425.124,
+          -1263.046
+        ],
+        "coords_xy": [
+          [
+            425.996,
+            -1255.862
+          ],
+          [
+            425.028,
+            -1263.32
+          ],
+          [
+            424.349,
+            -1269.955
+          ]
+        ]
+      },
+      {
+        "id": 1392727927,
+        "name": "Rue Mill",
+        "tags": {
+          "bicycle": "dismount",
+          "footway": "sidewalk",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.492857,
+          -73.551247
+        ],
+        "centroid_xy": [
+          418.376,
+          -1320.62
+        ],
+        "coords_xy": [
+          [
+            424.349,
+            -1269.955
+          ],
+          [
+            416.197,
+            -1339.519
+          ],
+          [
+            414.582,
+            -1352.387
+          ]
+        ]
+      },
+      {
+        "id": 1392727928,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.493215,
+          -73.55083
+        ],
+        "centroid_xy": [
+          450.907,
+          -1280.786
+        ],
+        "coords_xy": [
+          [
+            449.159,
+            -1294.98
+          ],
+          [
+            452.654,
+            -1266.593
+          ]
+        ]
+      },
+      {
+        "id": 1392727930,
+        "name": "Rue Mill",
+        "tags": {
+          "crossing": "unmarked",
+          "crossing:markings": "no",
+          "footway": "crossing",
+          "highway": "footway",
+          "name": "Rue Mill",
+          "name:en": "Mill Street",
+          "name:fr": "Rue Mill",
+          "surface": "concrete"
+        },
+        "centroid_latlon": [
+          45.492452,
+          -73.551319
+        ],
+        "centroid_xy": [
+          412.808,
+          -1365.671
+        ],
+        "coords_xy": [
+          [
+            414.582,
+            -1352.387
+          ],
+          [
+            412.842,
+            -1365.089
+          ],
+          [
+            411.001,
+            -1379.538
+          ]
+        ]
+      },
+      {
+        "id": 1392727932,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.49238,
+          -73.551043
+        ],
+        "centroid_xy": [
+          434.346,
+          -1373.627
+        ],
+        "coords_xy": [
+          [
+            421.603,
+            -1381.108
+          ],
+          [
+            430.646,
+            -1378.069
+          ],
+          [
+            441.326,
+            -1379.449
+          ],
+          [
+            443.807,
+            -1355.883
+          ]
+        ]
+      },
+      {
+        "id": 1392727941,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "service": "driveway",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.492285,
+          -73.551192
+        ],
+        "centroid_xy": [
+          422.703,
+          -1384.269
+        ],
+        "coords_xy": [
+          [
+            421.603,
+            -1381.108
+          ],
+          [
+            423.803,
+            -1387.43
+          ]
+        ]
+      },
+      {
+        "id": 1392727942,
+        "name": "",
+        "tags": {
+          "access": "private",
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "centroid_latlon": [
+          45.492316,
+          -73.551239
+        ],
+        "centroid_xy": [
+          419.068,
+          -1380.863
+        ],
+        "coords_xy": [
+          [
+            421.603,
+            -1381.108
+          ],
+          [
+            416.532,
+            -1380.618
+          ]
+        ]
+      },
+      {
+        "id": 1392739280,
+        "name": "",
+        "tags": {
+          "bicycle": "designated",
+          "foot": "designated",
+          "highway": "cycleway",
+          "lcn": "yes",
+          "ncn": "yes",
+          "oneway": "no",
+          "segregated": "no",
+          "surface": "asphalt",
+          "winter_service": "no"
+        },
+        "centroid_latlon": [
+          45.49477,
+          -73.551723
+        ],
+        "centroid_xy": [
+          381.274,
+          -1107.577
+        ],
+        "coords_xy": [
+          [
+            364.806,
+            -1230.359
+          ],
+          [
+            367.326,
+            -1213.305
+          ],
+          [
+            370.088,
+            -1194.536
+          ],
+          [
+            375.089,
+            -1159.315
+          ],
+          [
+            376.883,
+            -1144.999
+          ],
+          [
+            378.521,
+            -1131.44
+          ],
+          [
+            380.41,
+            -1112.594
+          ],
+          [
+            384.381,
+            -1078.552
+          ],
+          [
+            384.864,
+            -1074.701
+          ],
+          [
+            385.418,
+            -1070.994
+          ],
+          [
+            387.267,
+            -1063.279
+          ],
+          [
+            387.985,
+            -1059.672
+          ],
+          [
+            388.555,
+            -1056.522
+          ],
+          [
+            389.101,
+            -1051.268
+          ],
+          [
+            389.702,
+            -1042.117
+          ],
+          [
+            389.99,
+            -1037.587
+          ]
+        ]
+      }
+    ],
+    "parks_squares": [],
+    "monuments": [],
+    "trees": [
+      {
+        "id": 12892587458,
+        "lat": 45.4949302,
+        "lon": -73.5497126,
+        "x": 538.124,
+        "y": -1089.796
+      },
+      {
+        "id": 12892587459,
+        "lat": 45.4944893,
+        "lon": -73.54976,
+        "x": 534.426,
+        "y": -1138.876
+      },
+      {
+        "id": 12892587460,
+        "lat": 45.4941031,
+        "lon": -73.5497933,
+        "x": 531.827,
+        "y": -1181.868
+      },
+      {
+        "id": 12892587461,
+        "lat": 45.4941372,
+        "lon": -73.5497907,
+        "x": 532.03,
+        "y": -1178.072
+      },
+      {
+        "id": 12892587462,
+        "lat": 45.4941821,
+        "lon": -73.549792,
+        "x": 531.929,
+        "y": -1173.074
+      },
+      {
+        "id": 12892587463,
+        "lat": 45.4938337,
+        "lon": -73.5498215,
+        "x": 529.627,
+        "y": -1211.857
+      },
+      {
+        "id": 12892587464,
+        "lat": 45.4936837,
+        "lon": -73.5498471,
+        "x": 527.63,
+        "y": -1228.555
+      },
+      {
+        "id": 12892587465,
+        "lat": 45.4936118,
+        "lon": -73.5498381,
+        "x": 528.332,
+        "y": -1236.559
+      },
+      {
+        "id": 12892587466,
+        "lat": 45.493531,
+        "lon": -73.5498471,
+        "x": 527.63,
+        "y": -1245.554
+      },
+      {
+        "id": 12892587467,
+        "lat": 45.4934511,
+        "lon": -73.5498586,
+        "x": 526.733,
+        "y": -1254.448
+      },
+      {
+        "id": 12892587468,
+        "lat": 45.4931574,
+        "lon": -73.5498842,
+        "x": 524.736,
+        "y": -1287.143
+      },
+      {
+        "id": 12892587469,
+        "lat": 45.4929904,
+        "lon": -73.5499009,
+        "x": 523.433,
+        "y": -1305.733
+      },
+      {
+        "id": 12892587470,
+        "lat": 45.4930631,
+        "lon": -73.5499047,
+        "x": 523.136,
+        "y": -1297.64
+      },
+      {
+        "id": 12892587475,
+        "lat": 45.4930276,
+        "lon": -73.5516477,
+        "x": 387.15,
+        "y": -1301.592
+      },
+      {
+        "id": 12892587476,
+        "lat": 45.4937164,
+        "lon": -73.5512772,
+        "x": 416.056,
+        "y": -1224.915
+      },
+      {
+        "id": 12892587477,
+        "lat": 45.4937743,
+        "lon": -73.5512687,
+        "x": 416.719,
+        "y": -1218.47
+      },
+      {
+        "id": 12892587478,
+        "lat": 45.4938856,
+        "lon": -73.5512454,
+        "x": 418.537,
+        "y": -1206.08
+      },
+      {
+        "id": 12892587479,
+        "lat": 45.4937476,
+        "lon": -73.5510294,
+        "x": 435.389,
+        "y": -1221.442
+      },
+      {
+        "id": 12892587480,
+        "lat": 45.4938574,
+        "lon": -73.5508028,
+        "x": 453.068,
+        "y": -1209.219
+      },
+      {
+        "id": 12892587481,
+        "lat": 45.4939732,
+        "lon": -73.5506059,
+        "x": 468.43,
+        "y": -1196.328
+      },
+      {
+        "id": 12892587482,
+        "lat": 45.4937461,
+        "lon": -73.5503645,
+        "x": 487.263,
+        "y": -1221.609
+      },
+      {
+        "id": 12892587483,
+        "lat": 45.4938711,
+        "lon": -73.5503345,
+        "x": 489.604,
+        "y": -1207.694
+      },
+      {
+        "id": 12892587484,
+        "lat": 45.4940196,
+        "lon": -73.5505846,
+        "x": 470.092,
+        "y": -1191.163
+      },
+      {
+        "id": 12892587485,
+        "lat": 45.4934492,
+        "lon": -73.5503472,
+        "x": 488.613,
+        "y": -1254.66
+      },
+      {
+        "id": 12892587486,
+        "lat": 45.4934017,
+        "lon": -73.5504426,
+        "x": 481.17,
+        "y": -1259.947
+      },
+      {
+        "id": 12892587487,
+        "lat": 45.4934165,
+        "lon": -73.5505316,
+        "x": 474.227,
+        "y": -1258.3
+      },
+      {
+        "id": 12892587488,
+        "lat": 45.4934254,
+        "lon": -73.5506291,
+        "x": 466.62,
+        "y": -1257.309
+      },
+      {
+        "id": 12892587489,
+        "lat": 45.4934358,
+        "lon": -73.5509194,
+        "x": 443.971,
+        "y": -1256.151
+      },
+      {
+        "id": 12892587490,
+        "lat": 45.4934343,
+        "lon": -73.5507901,
+        "x": 454.059,
+        "y": -1256.318
+      },
+      {
+        "id": 12892587491,
+        "lat": 45.4944162,
+        "lon": -73.5509342,
+        "x": 442.816,
+        "y": -1147.014
+      },
+      {
+        "id": 12892587492,
+        "lat": 45.4946658,
+        "lon": -73.5509003,
+        "x": 445.461,
+        "y": -1119.228
+      },
+      {
+        "id": 12892587493,
+        "lat": 45.4947742,
+        "lon": -73.5508812,
+        "x": 446.951,
+        "y": -1107.161
+      },
+      {
+        "id": 12892587494,
+        "lat": 45.4947683,
+        "lon": -73.5503578,
+        "x": 487.786,
+        "y": -1107.818
+      },
+      {
+        "id": 12892587495,
+        "lat": 45.4948306,
+        "lon": -73.5501798,
+        "x": 501.673,
+        "y": -1100.883
+      },
+      {
+        "id": 12892587496,
+        "lat": 45.4943063,
+        "lon": -73.5503345,
+        "x": 489.604,
+        "y": -1159.248
+      },
+      {
+        "id": 12892587497,
+        "lat": 45.4947683,
+        "lon": -73.5505485,
+        "x": 472.908,
+        "y": -1107.818
+      },
+      {
+        "id": 12892587498,
+        "lat": 45.4947846,
+        "lon": -73.5507308,
+        "x": 458.685,
+        "y": -1106.004
+      },
+      {
+        "id": 12892587523,
+        "lat": 45.4935005,
+        "lon": -73.5513825,
+        "x": 407.841,
+        "y": -1248.949
+      }
+    ]
+  }
+}
